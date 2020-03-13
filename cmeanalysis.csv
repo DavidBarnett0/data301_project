@@ -1,0 +1,1094 @@
+occurrence_time,latitude,longitude,halfAngle,speed,type,note,analysis_time
+2015-01-01 23:14:00+00:00,31.0,26.0,32.0,350.0,S,"using both SWPC_cat and STEREO_cat with approx. lat from SWPC_cat (which is also in approx. agreement of location of source region), CME very faint, only 3 images were fit in SWPC_cat, others were too noisy",2015-01-01 23:14:00
+2015-01-02 23:55:00+00:00,3.0,34.0,23.0,353.0,S,Reanalyzed with more C2 and STEREOA imagery,2015-01-02 23:55:00
+2015-01-03 23:40:00+00:00,-49.0,-82.0,42.0,210.0,S,"Source region could not be found. It's possible that this CME might be associated with a small filament eruption occurring around 2015-01-02T21:48Z as seen in SDO AIA 304. However, the filament is extremely small and it's difficult to see whether it erupted or just left the field of view.",2015-01-03 23:40:00
+2015-01-07 00:25:00+00:00,9.0,39.0,12.0,532.0,C,,2015-01-07 00:25:00
+2015-01-08 03:10:00+00:00,67.0,-102.0,20.0,579.0,C,,2015-01-08 03:10:00
+2015-01-09 05:54:00+00:00,-10.0,2.0,13.0,265.0,S,,2015-01-09 05:54:00
+2015-01-10 07:45:00+00:00,-19.0,31.0,16.0,510.0,C,,2015-01-10 07:45:00
+2015-01-10 21:22:00+00:00,7.0,-90.0,15.0,260.0,S,Re-measured because other measurements didn't seem realistic.  Plane of sky measurements because no additional information to indicate direction.,2015-01-10 21:22:00
+2015-01-11 16:15:00+00:00,59.0,-100.0,30.0,200.0,S,"Slow, high northern latitude CME.",2015-01-11 16:15:00
+2015-01-12 07:18:00+00:00,72.0,-90.0,15.0,250.0,S,"Measurements are plane of sky only - not enough information to infer direction, but CME was very close to north pole.",2015-01-12 07:18:00
+2015-01-12 04:38:00+00:00,73.0,-90.0,15.0,480.0,S,"CME measurements are plane of sky, CME was narrow, bright and high-latitude.  Propagated non-radially so was difficult to triangulate.",2015-01-12 04:38:00
+2015-01-12 03:54:00+00:00,74.0,-90.0,17.0,690.0,C,"This measurement is plane of sky because it's tough to tell the direction - CME was very bright and narrow, so it probably came from close to the limb.  Longitude is set to -90 just for plane of sky purposes.",2015-01-12 03:54:00
+2015-01-12 10:09:00+00:00,15.0,90.0,21.0,390.0,S,Measurement is plane of sky only.,2015-01-12 10:09:00
+2015-01-12 20:26:00+00:00,81.0,-90.0,14.0,510.0,C,"CME was non-radial.  First appeared to the west of the north pole, but final trajectory was slightly to the east.",2015-01-12 20:26:00
+2015-01-12 18:39:00+00:00,3.0,-45.0,27.0,880.0,C,"Longitude of CME is based on assumed source region.  The speed listed is the asymptotic speed approaching 21.5 RSun - it was going over 1200 km/sec in the beginning.  There is probably more of a southward extension of the CME, hard to see behind the C3 occulter.",2015-01-12 18:39:00
+2015-01-13 02:28:00+00:00,13.0,55.0,27.0,350.0,S,"CME was a lopsided shape, with a fainter leading edge and a brighter interior front. Measurements are of the outer, fainter front.",2015-01-13 02:28:00
+2015-01-13 11:50:00+00:00,25.0,70.0,7.0,560.0,C,"CME was very narrow, assumed 3D direction was based on flaring location.",2015-01-13 11:50:00
+2015-01-13 21:00:00+00:00,88.0,90.0,24.0,475.0,S,Plane of sky measurements (CME was probably close to the plane of the sky).,2015-01-13 21:00:00
+2015-01-13 20:53:00+00:00,26.0,135.0,45.0,600.0,C,"This was faint, broad halo-type covering the NW limb of the Sun.   The latitude is based on a guess that the CME was 45 degrees out of the plane of the sky.",2015-01-13 20:53:00
+2015-01-14 18:45:00+00:00,45.0,-45.0,25.0,300.0,S,"These are very very approximate parameters. Location is based on SDO EUV reconfiguration seen in the northeastern quadrant around the time of the CME. Speed based on STEREO CAT with plane of sky adjustment. SWPC_CAT was not useful at all for this event. Anyhow, the event will most likely not have any space weather consequences.",2015-01-14 18:45:00
+2015-01-15 05:13:00+00:00,35.0,85.0,20.0,257.0,S,,2015-01-15 05:13:00
+2015-01-15 20:24:00+00:00,44.0,-27.0,32.0,193.0,S,,2015-01-15 20:24:00
+2015-01-16 01:18:00+00:00,43.0,-12.0,20.0,363.0,S,"using STEREO_cat with approximate source location from SDO, parameters measured quite close to disk, should be remeasured when updated images are available.",2015-01-16 01:18:00
+2015-01-16 16:20:00+00:00,62.0,78.0,20.0,271.0,S,,2015-01-16 16:20:00
+2015-01-17 17:52:00+00:00,-42.0,41.0,16.0,437.0,S,,2015-01-17 17:52:00
+2015-01-19 22:34:00+00:00,29.0,-80.0,27.0,315.0,S,Re-measured using later C3 images.  The longitude was based on the apparent source region.,2015-01-19 22:34:00
+2015-01-20 05:32:00+00:00,60.0,130.0,35.0,1350.0,O,CME longitude is based on source region observed in STEREO-A EUVI images.,2015-01-20 05:32:00
+2015-01-20 19:22:00+00:00,86.0,90.0,26.0,540.0,C,"This CME had a very faint, ragged front, and was very difficult to measure.   Measurements are plane of sky only.",2015-01-20 19:22:00
+2015-01-22 03:26:00+00:00,36.0,-30.0,22.0,447.0,S,,2015-01-22 03:26:00
+2015-01-25 01:15:00+00:00,-26.0,-30.0,17.0,160.0,S,,2015-01-25 01:15:00
+2015-01-25 13:44:00+00:00,-58.0,7.0,53.0,357.0,S,,2015-01-25 13:44:00
+2015-01-25 23:30:00+00:00,60.0,130.0,13.0,350.0,S,,2015-01-25 23:30:00
+2015-01-26 05:34:00+00:00,0.0,-75.0,26.0,268.0,S,"Rough measurement, please re-measure!",2015-01-26 05:34:00
+2015-01-26 12:27:00+00:00,40.0,156.0,19.0,270.0,S,,2015-01-26 12:27:00
+2015-01-26 10:38:00+00:00,-26.0,-85.0,26.0,563.0,C,,2015-01-26 10:38:00
+2015-01-29 02:08:00+00:00,-26.0,-97.0,16.0,755.0,C,,2015-01-29 02:08:00
+2015-01-29 07:00:00+00:00,15.0,-82.0,35.0,401.0,S,,2015-01-29 07:00:00
+2015-01-29 22:05:00+00:00,62.0,-99.0,31.0,267.0,S,Measurements are very preliminary.  CME appears very faint and slow.,2015-01-29 22:05:00
+2015-01-31 16:45:00+00:00,10.0,25.0,24.0,456.0,S,,2015-01-31 16:45:00
+2015-02-01 17:25:00+00:00,67.0,-75.0,44.0,550.0,C,"This CME was not modeled due to the high latitude.
+
+A smaller lon is also compatible with the
+coronagraph images. You can see the eruption in SDO and even some indication in EUVI A, so the source is at/behind the limb (from earth).  As you can see in STA right next to the AR is a CH, this will probably push the CME to higher lat and lower longitudes.",2015-02-01 17:25:00
+2015-02-03 02:47:00+00:00,26.0,53.0,14.0,223.0,S,"unsure of source location, so parameters are a guess",2015-02-03 02:47:00
+2015-02-03 16:11:00+00:00,23.0,-40.0,20.0,980.0,C,"3D projection is based on presumed source location.  CME had a ragged front, difficult to measure.",2015-02-03 16:11:00
+2015-02-05 21:59:00+00:00,53.0,-54.0,16.0,332.0,S,,2015-02-05 21:59:00
+2015-02-06 11:19:00+00:00,-21.0,146.0,19.0,150.0,S,,2015-02-06 11:19:00
+2015-02-08 00:29:00+00:00,-21.0,-97.0,27.0,471.0,S,,2015-02-08 00:29:00
+2015-02-09 08:37:00+00:00,-47.0,-63.0,41.0,161.0,S,,2015-02-09 08:37:00
+2015-02-09 11:55:00+00:00,-1.0,-61.0,18.0,182.0,S,,2015-02-09 11:55:00
+2015-02-09 21:06:00+00:00,-1.0,-66.0,20.0,289.0,S,,2015-02-09 21:06:00
+2015-02-10 03:03:00+00:00,26.0,-65.0,41.0,1040.0,O,"CME was very bright, no clear deceleration out to 21.5 RSun.  Longitude is based on EUV signatures - appeared to be coming from Eastern edge of flaring region.",2015-02-10 03:03:00
+2015-02-10 11:54:00+00:00,0.0,-70.0,26.0,650.0,C,"This CME was very asymmetric and was rapidly decelerating, starting out at over 1000 km/sec.  Longitude is based on EUV source location.",2015-02-10 11:54:00
+2015-02-11 16:36:00+00:00,57.0,-73.0,21.0,217.0,S,,2015-02-11 16:36:00
+2015-02-12 11:40:00+00:00,-50.0,156.0,56.0,105.0,S,,2015-02-12 11:40:00
+2015-02-13 09:10:00+00:00,-7.0,-145.0,23.0,724.0,C,Parameters recalculated based on significant darkening in EUVI A imagery which became available,2015-02-13 09:10:00
+2015-02-14 06:54:00+00:00,40.0,-110.0,45.0,305.0,S,,2015-02-14 06:54:00
+2015-02-15 16:16:00+00:00,48.0,-114.0,25.0,460.0,S,No source could be found.,2015-02-15 16:16:00
+2015-02-15 17:10:00+00:00,-6.0,-87.0,25.0,175.0,S,,2015-02-15 17:10:00
+2015-02-15 15:02:00+00:00,23.0,-63.0,29.0,343.0,S,,2015-02-15 15:02:00
+2015-02-17 17:58:00+00:00,26.0,-104.0,23.0,109.0,S,,2015-02-17 17:58:00
+2015-02-18 02:48:00+00:00,35.0,154.0,16.0,826.0,C,,2015-02-18 02:48:00
+2015-02-18 14:32:00+00:00,28.0,-32.0,17.0,530.0,C,CME very faint with uncertain front. A highly unlikely probability of a glancing blow to Earth,2015-02-18 14:32:00
+2015-02-19 16:58:00+00:00,7.0,-75.0,30.0,309.0,S,,2015-02-19 16:58:00
+2015-02-20 19:50:00+00:00,-60.0,90.0,45.0,450.0,S,"Note:  this may be part of the 2015-02-20T09:12Z CME, or it may be two different overlapping structures.  This CME starts *very* gradually, so the start time is the time that the CME seemed to pick up speed.",2015-02-20 19:50:00
+2015-02-20 23:00:00+00:00,-65.0,12.0,27.0,300.0,S,"Note:  This may be part of the 2015-02-20T04:00Z CME, they are either separate overlapping structures or it is an oddly-shaped CME.  The latitude is very approximate.",2015-02-20 23:00:00
+2015-02-21 12:55:00+00:00,-50.0,-145.0,25.0,311.0,S,No source could be found in SDO or STA EUVI. Not modeled because of slow speed and strong southern latitude.,2015-02-21 12:55:00
+2015-02-21 14:03:00+00:00,-23.0,135.0,45.0,914.0,C,,2015-02-21 14:03:00
+2015-02-22 00:50:00+00:00,-27.0,134.0,19.0,772.0,C,,2015-02-22 00:50:00
+2015-02-23 00:54:00+00:00,-5.0,138.0,16.0,850.0,C,Measurement primarily made with C2 and a few C3 frames.  May want to re-measure when later imagery is available in case it is slower then.,2015-02-23 00:54:00
+2015-02-24 21:20:00+00:00,-68.0,48.0,18.0,204.0,S,Measured close to Sun,2015-02-24 21:20:00
+2015-02-24 14:37:00+00:00,-32.0,-129.0,43.0,830.0,C,,2015-02-24 14:37:00
+2015-02-24 23:45:00+00:00,-9.0,107.0,18.0,360.0,S,difficult to locate the source. The lat/lon is from swpc_cat fit.,2015-02-24 23:45:00
+2015-02-25 10:21:00+00:00,37.0,55.0,36.0,420.0,S,meas. using source location and single spacecraft (SOHO) w/SWPC_CAT,2015-02-25 10:21:00
+2015-02-27 09:25:00+00:00,21.0,88.0,34.0,160.0,S,,2015-02-27 09:25:00
+2015-02-27 18:31:00+00:00,0.0,44.0,30.0,255.0,S,,2015-02-27 18:31:00
+2015-02-28 07:57:00+00:00,-11.0,41.0,15.0,230.0,S,,2015-02-28 07:57:00
+2015-02-28 04:20:00+00:00,19.0,46.0,20.0,350.0,S,,2015-02-28 04:20:00
+2015-03-01 11:45:00+00:00,30.0,80.0,26.0,100.0,S,,2015-03-01 11:45:00
+2015-03-01 02:30:00+00:00,26.0,-70.0,30.0,150.0,S,,2015-03-01 02:30:00
+2015-02-28 12:15:00+00:00,-9.0,-176.0,46.0,455.0,S,,2015-02-28 12:15:00
+2015-03-01 14:00:00+00:00,71.0,61.0,26.0,155.0,S,Averaged measurements between two swpc_cat simulations.,2015-03-01 14:00:00
+2015-02-28 21:48:00+00:00,11.0,-162.0,43.0,1200.0,O,remeasured,2015-02-28 21:48:00
+2015-02-28 23:49:00+00:00,3.0,-170.0,43.0,1267.0,O,,2015-02-28 23:49:00
+2015-03-01 11:23:00+00:00,-33.0,-155.0,49.0,320.0,S,,2015-03-01 11:23:00
+2015-03-01 12:44:00+00:00,3.0,93.0,35.0,529.0,C,,2015-03-01 12:44:00
+2015-03-01 16:14:00+00:00,-15.0,-170.0,45.0,920.0,C,remeasurement,2015-03-01 16:14:00
+2015-03-01 17:07:00+00:00,-9.0,-168.0,52.0,709.0,C,,2015-03-01 17:07:00
+2015-03-02 03:43:00+00:00,33.0,85.0,37.0,319.0,S,,2015-03-02 03:43:00
+2015-03-02 12:31:00+00:00,39.0,80.0,28.0,229.0,S,,2015-03-02 12:31:00
+2015-03-02 19:18:00+00:00,26.0,78.0,30.0,241.0,S,,2015-03-02 19:18:00
+2015-03-03 00:14:00+00:00,40.0,87.0,30.0,443.0,S,,2015-03-03 00:14:00
+2015-03-03 12:27:00+00:00,8.0,90.0,28.0,330.0,S,,2015-03-03 12:27:00
+2015-03-03 20:00:00+00:00,-18.0,-128.0,43.0,725.0,C,remeasured,2015-03-03 20:00:00
+2015-03-03 19:45:00+00:00,-20.0,-100.0,42.0,910.0,C,CME had a very difficult to define front.  Also appeared to be shock-like disturbances (not measured). Longitude was based on estimate of CME source in EUV images.,2015-03-03 19:45:00
+2015-03-04 03:35:00+00:00,27.0,89.0,30.0,470.0,S,,2015-03-04 03:35:00
+2015-03-06 02:04:00+00:00,-20.0,-95.0,30.0,585.0,C,remeasurement,2015-03-06 02:04:00
+2015-03-06 01:30:00+00:00,-18.0,-105.0,39.0,727.0,C,,2015-03-06 01:30:00
+2015-03-06 09:18:00+00:00,-4.0,-108.0,47.0,900.0,C,remeasurement,2015-03-06 09:18:00
+2015-03-06 09:24:00+00:00,-6.0,-90.0,36.0,865.0,C,This was a bright CME and the velocity was fairly constant.,2015-03-06 09:24:00
+2015-03-06 09:35:00+00:00,-9.0,-105.0,46.0,1500.0,O,remeasurement.  This is a measurement of the fast loop to the S of the previous CME.,2015-03-06 09:35:00
+2015-03-06 12:30:00+00:00,-11.0,-90.0,47.0,622.0,C,This CME had a very ragged front and was difficult to distinguish because it overlapped with the prior CME.  The initial speeds were much higher (>1000 km/s) but it decelerated rapidly.,2015-03-06 12:30:00
+2015-03-08 01:24:00+00:00,-22.0,-72.0,43.0,1200.0,O,remeasured,2015-03-08 01:24:00
+2015-03-08 01:38:00+00:00,-12.0,-78.0,45.0,1200.0,O,,2015-03-08 01:38:00
+2015-03-10 02:56:00+00:00,-6.0,-50.0,34.0,1200.0,O,remeasured,2015-03-10 02:56:00
+2015-03-10 02:56:00+00:00,-11.0,-50.0,32.0,1200.0,O,"CME had a bright loop heading eastward as well as a halo component.  The measurement reflects the loop - the halo may be due to a shock instead of ""true"" CME mass.",2015-03-10 02:56:00
+2015-03-10 05:47:00+00:00,6.0,-45.0,37.0,1500.0,O,remeasured,2015-03-10 05:47:00
+2015-03-10 05:47:00+00:00,6.0,-45.0,37.0,1525.0,O,"CME was quite faint and diffuse.  There was a halo component as well, but the measurements only focus on the loop structure moving eastward, the rest might be shock.",2015-03-10 05:47:00
+2015-03-11 06:36:00+00:00,12.0,-80.0,24.0,545.0,C,Longitude is based on the similarities between this CME and two other CMEs:  2015-03-11T17:00Z and 2015-03-12T03:12Z. These were associated with an active region located at E80.,2015-03-11 06:36:00
+2015-03-11 16:30:00+00:00,55.0,45.0,40.0,600.0,C,,2015-03-11 16:30:00
+2015-03-12 02:58:00+00:00,14.0,-80.0,24.0,375.0,S,Longitude is based on apparent source region in AIA 193 images.,2015-03-12 02:58:00
+2015-03-12 17:51:00+00:00,12.0,-80.0,17.0,250.0,S,Longitude is based on assumed source region in AIA 193 images.,2015-03-12 17:51:00
+2015-03-15 05:23:00+00:00,-59.0,15.0,34.0,282.0,S,measurement made by Sandro on SWPC_Cat,2015-03-15 05:23:00
+2015-03-15 04:40:00+00:00,-15.0,28.0,38.0,1000.0,O,remeasured,2015-03-15 04:40:00
+2015-03-15 06:45:00+00:00,-12.0,32.0,45.0,750.0,C,,2015-03-15 06:45:00
+2015-03-16 03:12:00+00:00,-5.0,-92.0,21.0,192.0,S,,2015-03-16 03:12:00
+2015-03-18 07:36:00+00:00,-5.0,64.0,20.0,498.0,S,,2015-03-18 07:36:00
+2015-03-19 08:20:00+00:00,-19.0,-40.0,15.0,552.0,C,POS measurements using location and CME projection graph.,2015-03-19 08:20:00
+2015-03-19 07:09:00+00:00,-20.0,-87.0,33.0,499.0,S,,2015-03-19 07:09:00
+2015-03-20 07:14:00+00:00,-3.0,88.0,39.0,825.0,C,,2015-03-20 07:14:00
+2015-03-21 01:56:00+00:00,-11.0,72.0,15.0,445.0,S,,2015-03-21 01:56:00
+2015-03-22 02:15:00+00:00,6.0,58.0,10.0,162.0,S,This CME was very narrow and faint. It is possibly associated with an eruption seen near the center of the disk in SDO 193 around 5UT. It is not expected to have any notable space weather impacts.,2015-03-22 02:15:00
+2015-03-23 09:49:00+00:00,14.0,20.0,27.0,236.0,S,Estimated longitude is very uncertain  because the filament is stretched latitudinally (from almost 0 degrees to 40+). Speed is also extremely uncertain.,2015-03-23 09:49:00
+2015-03-24 10:40:00+00:00,-3.0,100.0,50.0,1450.0,O,"The longitude of the CME is based on the presumed source region, AR 2297 behind the west limb.",2015-03-24 10:40:00
+2015-03-27 17:26:00+00:00,18.0,77.0,18.0,397.0,S,,2015-03-27 17:26:00
+2015-03-27 23:30:00+00:00,38.0,-97.0,33.0,411.0,S,,2015-03-27 23:30:00
+2015-03-28 07:19:00+00:00,-40.0,20.0,35.0,494.0,S,,2015-03-28 07:19:00
+2015-03-28 23:38:00+00:00,-43.0,-51.0,31.0,358.0,S,,2015-03-28 23:38:00
+2015-03-29 18:35:00+00:00,20.0,85.0,30.0,207.0,S,,2015-03-29 18:35:00
+2015-03-30 04:00:00+00:00,14.0,95.0,33.0,175.0,S,Very slow. Measured based on one of the features that seemed to have some structure,2015-03-30 04:00:00
+2015-03-30 01:30:00+00:00,14.0,-126.0,55.0,500.0,C,,2015-03-30 01:30:00
+2015-03-31 15:54:00+00:00,28.0,-82.0,22.0,417.0,S,,2015-03-31 15:54:00
+2015-04-02 08:26:00+00:00,-12.0,95.0,18.0,370.0,S,extremely faint CME,2015-04-02 08:26:00
+2015-04-02 11:52:00+00:00,16.0,-95.0,37.0,550.0,C,measurement by Anna using STEREO_cat,2015-04-02 11:52:00
+2015-04-03 15:30:00+00:00,9.0,-95.0,39.0,430.0,S,,2015-04-03 15:30:00
+2015-04-05 02:45:00+00:00,-25.0,-29.0,36.0,1090.0,O,,2015-04-05 02:45:00
+2015-04-05 12:16:00+00:00,-21.0,38.0,20.0,415.0,S,,2015-04-05 12:16:00
+2015-04-06 03:45:00+00:00,-14.0,95.0,24.0,175.0,S,Slow and Narrow CME,2015-04-06 03:45:00
+2015-04-06 04:49:00+00:00,-3.0,-36.0,29.0,409.0,S,,2015-04-06 04:49:00
+2015-04-06 21:57:00+00:00,55.0,90.0,31.0,285.0,S,,2015-04-06 21:57:00
+2015-04-06 11:16:00+00:00,11.0,-34.0,25.0,558.0,C,,2015-04-06 11:16:00
+2015-04-06 23:03:00+00:00,-9.0,-15.0,22.0,917.0,C,Analysis based on early C2 difference images and on the front of the feature seen in SE.,2015-04-06 23:03:00
+2015-04-10 07:00:00+00:00,-15.0,45.0,45.0,500.0,C,,2015-04-10 07:00:00
+2015-04-11 18:00:00+00:00,-15.0,-105.0,15.0,350.0,S,Very faint -> rough measurement but shouldn't be significant.,2015-04-11 18:00:00
+2015-04-12 06:00:00+00:00,63.0,151.0,35.0,1000.0,O,"Fast, but high latitude",2015-04-12 06:00:00
+2015-04-12 20:45:00+00:00,-2.0,82.0,28.0,335.0,S,Very very early/rough measurement.  Only 3 frames used (2 in C2),2015-04-12 20:45:00
+2015-04-12 20:30:00+00:00,18.0,-70.0,30.0,350.0,S,Rough measurement using primarily C2 imagery,2015-04-12 20:30:00
+2015-04-13 01:15:00+00:00,31.0,-57.0,18.0,310.0,S,,2015-04-13 01:15:00
+2015-04-13 05:45:00+00:00,-1.0,61.0,42.0,556.0,C,,2015-04-13 05:45:00
+2015-04-14 05:43:00+00:00,55.0,-150.0,47.0,1075.0,O,The lat and lon for this CME could vary greatly.  CME has a bright front and an extended halo that is much wider.,2015-04-14 05:43:00
+2015-04-14 18:26:00+00:00,-4.0,90.0,24.0,380.0,S,"CME had a pretty ragged front, tough to define exactly what leading edge was.  Faded as it moved through C3 FOV.",2015-04-14 18:26:00
+2015-04-15 00:57:00+00:00,-4.0,-90.0,33.0,275.0,S,CME is quite bright and distinct.,2015-04-15 00:57:00
+2015-04-14 23:38:00+00:00,-10.0,-90.0,36.0,450.0,S,"CME was right behind the 2015-04-14T10:48Z CME, was difficult to distinguish between the two as they moved through the C3 FOV.",2015-04-14 23:38:00
+2015-04-16 04:54:00+00:00,32.0,-19.0,15.0,363.0,S,,2015-04-16 04:54:00
+2015-04-16 14:37:00+00:00,2.0,-92.0,18.0,453.0,S,,2015-04-16 14:37:00
+2015-04-17 18:34:00+00:00,-4.0,63.0,17.0,250.0,S,,2015-04-17 18:34:00
+2015-04-18 06:58:00+00:00,54.0,-102.0,38.0,921.0,C,,2015-04-18 06:58:00
+2015-04-19 13:42:00+00:00,22.0,46.0,19.0,165.0,S,Very Slow and narrow CME,2015-04-19 13:42:00
+2015-04-20 03:00:00+00:00,-51.0,146.0,46.0,270.0,S,"Faint southern CME.  Intially thought to be part of the larger 11:00UT CME but later with backfilled imagery, this was ruled out.",2015-04-20 03:00:00
+2015-04-19 17:47:00+00:00,-23.0,-145.0,35.0,850.0,C,This CME interacts with an earlier CME of the day. In C3 the structure is moving together with the main light-bulb shaped CME in the SE. In C2 it is not so clear if it starts moving out at the same time.,2015-04-19 17:47:00
+2015-04-20 04:05:00+00:00,-34.0,126.0,42.0,459.0,S,,2015-04-20 04:05:00
+2015-04-21 14:32:00+00:00,-32.0,-90.0,34.0,360.0,S,"CME signatures looked close to plane of sky, so measurement was done at -90.",2015-04-21 14:32:00
+2015-04-21 12:22:00+00:00,44.0,-90.0,40.0,1800.0,O,,2015-04-21 12:22:00
+2015-04-21 16:34:00+00:00,59.0,-90.0,30.0,1110.0,O,,2015-04-21 16:34:00
+2015-04-23 14:26:00+00:00,20.0,80.0,50.0,627.0,C,,2015-04-23 14:26:00
+2015-04-24 18:48:00+00:00,54.0,-117.0,19.0,962.0,C,,2015-04-24 18:48:00
+2015-04-25 00:29:00+00:00,36.0,127.0,38.0,1020.0,O,,2015-04-25 00:29:00
+2015-04-25 09:26:00+00:00,37.0,-126.0,14.0,590.0,C,,2015-04-25 09:26:00
+2015-04-25 19:22:00+00:00,11.0,134.0,51.0,811.0,C,,2015-04-25 19:22:00
+2015-04-26 23:30:00+00:00,25.0,100.0,25.0,650.0,C,Very rough estimate. CME is too faint in C3 to make any good measurements. Follows along shortly after the halo CME from earlier today.,2015-04-26 23:30:00
+2015-04-26 05:15:00+00:00,12.0,165.0,40.0,1575.0,O,Fast partial halo CME.  Fit is not perfect in SWPC_Cat but as close as (believed) possible,2015-04-26 05:15:00
+2015-04-27 02:06:00+00:00,42.0,121.0,28.0,389.0,S,,2015-04-27 02:06:00
+2015-04-28 20:49:00+00:00,26.0,-59.0,36.0,601.0,C,,2015-04-28 20:49:00
+2015-04-30 09:58:00+00:00,72.0,-158.0,35.0,572.0,C,"Geometry uncertain,one of 2 overlapping CMEs",2015-04-30 09:58:00
+2015-04-30 11:58:00+00:00,45.0,152.0,43.0,460.0,S,"Geometry uncertain, second of 2 overlapping CMEs",2015-04-30 11:58:00
+2015-05-01 22:29:00+00:00,50.0,-134.0,36.0,341.0,S,parameters are a guess since location is backsided and no imagery is available,2015-05-01 22:29:00
+2015-05-01 21:16:00+00:00,16.0,-168.0,48.0,975.0,C,,2015-05-01 21:16:00
+2015-05-02 01:53:00+00:00,4.0,-105.0,41.0,550.0,C,,2015-05-02 01:53:00
+2015-05-02 15:22:00+00:00,-8.0,95.0,32.0,200.0,S,Need to remeasure with more imagery!,2015-05-02 15:22:00
+2015-05-02 13:08:00+00:00,3.0,-117.0,37.0,686.0,C,,2015-05-02 13:08:00
+2015-05-03 02:25:00+00:00,-28.0,88.0,37.0,200.0,S,Faint. Rough measurement.,2015-05-03 02:25:00
+2015-05-03 08:50:00+00:00,-32.0,-31.0,50.0,296.0,S,,2015-05-03 08:50:00
+2015-05-03 09:54:00+00:00,-26.0,97.0,32.0,473.0,S,,2015-05-03 09:54:00
+2015-05-03 08:30:00+00:00,41.0,-105.0,46.0,817.0,C,,2015-05-03 08:30:00
+2015-05-03 21:11:00+00:00,-21.0,-107.0,27.0,577.0,C,,2015-05-03 21:11:00
+2015-05-04 02:21:00+00:00,45.0,-96.0,25.0,448.0,S,,2015-05-04 02:21:00
+2015-05-04 09:49:00+00:00,43.0,-85.0,38.0,407.0,S,,2015-05-04 09:49:00
+2015-05-04 15:14:00+00:00,-20.0,-85.0,32.0,483.0,S,,2015-05-04 15:14:00
+2015-05-04 17:21:00+00:00,15.0,-135.0,65.0,560.0,C,,2015-05-04 17:21:00
+2015-05-05 02:43:00+00:00,-20.0,-95.0,17.0,490.0,S,This CME had a fairly ragged front and was difficult to track beyond 10 RSun.,2015-05-05 02:43:00
+2015-05-05 06:59:00+00:00,-16.0,-95.0,21.0,680.0,C,,2015-05-05 06:59:00
+2015-05-06 02:30:00+00:00,36.0,-100.0,38.0,270.0,S,"This CME was very bright at first, and then faded rapidly.  There were type II bursts observed near the onset time, estimated speed of 1100 km/sec.  Initial speeds were >400 km/sec, but nowhere near 1100.  An unusual event.",2015-05-06 02:30:00
+2015-05-06 02:15:00+00:00,42.0,-65.0,35.0,725.0,C,,2015-05-06 02:15:00
+2015-05-06 23:26:00+00:00,-11.0,26.0,29.0,576.0,C,,2015-05-06 23:26:00
+2015-05-09 07:15:00+00:00,31.0,-88.0,40.0,670.0,C,,2015-05-09 07:15:00
+2015-05-09 16:15:00+00:00,-20.0,-107.0,43.0,520.0,C,,2015-05-09 16:15:00
+2015-05-11 16:36:00+00:00,30.0,-24.0,24.0,269.0,S,,2015-05-11 16:36:00
+2015-05-12 08:31:00+00:00,-1.0,85.0,43.0,610.0,C,,2015-05-12 08:31:00
+2015-05-12 19:42:00+00:00,-3.0,66.0,21.0,468.0,S,,2015-05-12 19:42:00
+2015-05-13 05:12:00+00:00,35.0,-116.0,35.0,419.0,S,,2015-05-13 05:12:00
+2015-05-14 03:55:00+00:00,37.0,7.0,37.0,354.0,S,,2015-05-14 03:55:00
+2015-05-16 08:10:00+00:00,50.0,-72.0,35.0,600.0,C,,2015-05-16 08:10:00
+2015-05-16 20:26:00+00:00,-43.0,-43.0,28.0,320.0,S,,2015-05-16 20:26:00
+2015-05-16 17:35:00+00:00,51.0,14.0,25.0,627.0,C,,2015-05-16 17:35:00
+2015-05-22 04:50:00+00:00,49.0,-111.0,75.0,676.0,C,Complex CME was analyzed as one in StereoCAT. Longitude was guess to be 20 degrees behind the rim (-110 deg).,2015-05-22 04:50:00
+2015-05-24 00:18:00+00:00,55.0,134.0,20.0,274.0,S,,2015-05-24 00:18:00
+2015-05-25 03:00:00+00:00,-12.0,93.0,12.0,380.0,S,,2015-05-25 03:00:00
+2015-05-26 10:42:00+00:00,18.0,-82.0,32.0,349.0,S,,2015-05-26 10:42:00
+2015-05-28 04:20:00+00:00,-56.0,173.0,50.0,435.0,S,Most likely from far side. Position and width uncertain. Some indication of extension to center of east limb,2015-05-28 04:20:00
+2015-05-29 04:40:00+00:00,59.0,90.0,15.0,724.0,C,used SWPC CAT,2015-05-29 04:40:00
+2015-05-31 05:57:00+00:00,59.0,-12.0,24.0,190.0,S,,2015-05-31 05:57:00
+2015-05-31 23:52:00+00:00,11.0,-119.0,32.0,427.0,S,CME is backsided.  Longitude is not correct due to the lack of imagery.,2015-05-31 23:52:00
+2015-06-01 21:57:00+00:00,33.0,-63.0,32.0,180.0,S,,2015-06-01 21:57:00
+2015-06-01 19:06:00+00:00,13.0,-100.0,38.0,730.0,C,Longitude is based on apparent CME signature appearing from behind the limb.,2015-06-01 19:06:00
+2015-06-02 21:53:00+00:00,-3.0,80.0,33.0,270.0,S,Longitude is based on the location of the erupting prominence in AIA images.,2015-06-02 21:53:00
+2015-06-06 14:36:00+00:00,-48.0,63.0,30.0,219.0,S,No clear source could be found in SDO. Lon/Lat was approximated from a small eruption observed in SDO 304 (near AR 2359) around 2015-06-06T17:25Z. CME was not modeled because of its strong southward latitude.,2015-06-06 14:36:00
+2015-06-09 20:00:00+00:00,-33.0,-123.0,23.0,460.0,S,,2015-06-09 20:00:00
+2015-06-10 00:05:00+00:00,30.0,-31.0,43.0,853.0,C,,2015-06-10 00:05:00
+2015-06-11 14:49:00+00:00,46.0,22.0,44.0,367.0,S,,2015-06-11 14:49:00
+2015-06-14 08:47:00+00:00,-23.0,40.0,36.0,701.0,C,,2015-06-14 08:47:00
+2015-06-14 12:04:00+00:00,53.0,-41.0,18.0,760.0,C,,2015-06-14 12:04:00
+2015-06-16 13:51:00+00:00,-75.0,-105.0,45.0,170.0,S,"This was a difficult CME to measure.  There is a southward-heading loop, but also a fan-like structure extending all the way to the northeast that may indicate a halo CME and a more equatorward direction.   This measurement is only for the southward component.",2015-06-16 13:51:00
+2015-06-16 10:53:00+00:00,-50.0,25.0,39.0,570.0,C,"CME was faint, began with a narrow structure at the western edge with the full loop structure emerging after.  Lat/Lon are based initial on EUV source region, then adjusted for best CME fit.",2015-06-16 10:53:00
+2015-06-17 02:21:00+00:00,-1.0,90.0,21.0,435.0,S,"This CME was non-radial in motion, starting a little north of the equator but extending southward.  The lat/lon measurements prioritized the location of the CME farther out in the C3 images.",2015-06-17 02:21:00
+2015-06-17 16:00:00+00:00,34.0,45.0,18.0,175.0,S,Merged together with the CME starting around 02:00Z,2015-06-17 16:00:00
+2015-06-17 10:15:00+00:00,30.0,-61.0,18.0,490.0,S,There was also one starting around 02:00Z. But the two seems to merge together,2015-06-17 10:15:00
+2015-06-17 14:23:00+00:00,11.0,-80.0,29.0,380.0,S,,2015-06-17 14:23:00
+2015-06-18 04:35:00+00:00,44.0,52.0,23.0,175.0,S,,2015-06-18 04:35:00
+2015-06-17 15:12:00+00:00,15.0,-65.0,30.0,510.0,C,,2015-06-17 15:12:00
+2015-06-18 03:16:00+00:00,-19.0,90.0,40.0,1720.0,O,,2015-06-18 03:16:00
+2015-06-18 07:34:00+00:00,23.0,-53.0,20.0,693.0,C,,2015-06-18 07:34:00
+2015-06-18 20:00:00+00:00,11.0,-50.0,45.0,1000.0,O,,2015-06-18 20:00:00
+2015-06-19 14:59:00+00:00,-33.0,9.0,54.0,603.0,C,,2015-06-19 14:59:00
+2015-06-20 12:43:00+00:00,44.0,133.0,33.0,152.0,S,,2015-06-20 12:43:00
+2015-06-21 05:01:00+00:00,7.0,-8.0,47.0,1250.0,O,,2015-06-21 05:01:00
+2015-06-21 14:16:00+00:00,-36.0,51.0,17.0,450.0,S,Eruption that merged out of the outflows from the SW quadrant of SOHO. A possible source is faintly visible in SDO AIA 304 around 08:12UT.,2015-06-21 14:16:00
+2015-06-22 21:10:00+00:00,14.0,3.0,45.0,1155.0,O,,2015-06-22 21:10:00
+2015-06-23 06:07:00+00:00,-25.0,80.0,41.0,560.0,C,Measured using swpc_cat.,2015-06-23 06:07:00
+2015-06-23 15:00:00+00:00,40.0,35.0,25.0,460.0,S,,2015-06-23 15:00:00
+2015-06-24 00:01:00+00:00,26.0,26.0,14.0,581.0,C,"Possibly associated with a small brightening in SDO AIA 193 around 2015-06-23T16:45Z near AR 2371. Although the CME was classifed as C-type, it's narrow and diffusive nature makes it unlikely to have any substantial SWx impacts.",2015-06-24 00:01:00
+2015-06-24 20:45:00+00:00,-23.0,95.0,42.0,375.0,S,,2015-06-24 20:45:00
+2015-06-25 17:00:00+00:00,-5.0,100.0,29.0,233.0,S,,2015-06-25 17:00:00
+2015-06-25 10:51:00+00:00,23.0,46.0,41.0,1450.0,O,"This was measured using SWPC_CAT.  We are expecting a glancing blow at Earth, however it will be weak.",2015-06-25 10:51:00
+2015-07-01 17:14:00+00:00,3.0,133.0,45.0,1300.0,O,"CME fitting using SWPC_cat, LASCO/C3 only, source regions is most likely AR 12371 behind the west limb, currently at lon ~120-140 (estimate from GONG synoptic magnetogram of 2015-07-01), CME fit gives lon compatible with this, speeds ~ 1100-1300 (similar speeds from STEREO_cat with lon=130)",2015-07-01 17:14:00
+2015-07-02 23:43:00+00:00,44.0,-114.0,32.0,600.0,C,"source close to NE limb, use STEREO_cat with C3",2015-07-02 23:43:00
+2015-07-05 01:50:00+00:00,39.0,-73.0,30.0,626.0,C,,2015-07-05 01:50:00
+2015-07-06 12:17:00+00:00,-8.0,86.0,16.0,252.0,S,,2015-07-06 12:17:00
+2015-07-06 23:16:00+00:00,-31.0,-102.0,41.0,473.0,S,Large data gap (~4 hours) between start of CME imagery and later imagery when CME is very expanded and hard to define edge. Measurement based mainly on earlier images.,2015-07-06 23:16:00
+2015-07-07 14:01:00+00:00,-54.0,90.0,8.0,450.0,S,This is a faint minor CME.   Measurement if plane of sky.,2015-07-07 14:01:00
+2015-07-07 20:33:00+00:00,-8.0,-20.0,15.0,344.0,S,Source appears to be as a result of the on-going activity in AR 2381.,2015-07-07 20:33:00
+2015-07-08 19:32:00+00:00,13.0,27.0,40.0,329.0,S,Based on an average of measurements using swpc_cat with C3.,2015-07-08 19:32:00
+2015-07-09 13:12:00+00:00,-36.0,-61.0,28.0,302.0,S,This CME is only visible in C2 in SWPC_cat.,2015-07-09 13:12:00
+2015-07-10 10:14:00+00:00,-47.0,-60.0,32.0,450.0,S,"Eastern part of CME was fit with SWPC_cat (C3 only), lon quite uncertain, can be between -60 and -90
+(or sightly behind the limb), considering the large extent of the source filament this is no surprise.",2015-07-10 10:14:00
+2015-07-12 00:29:00+00:00,47.0,104.0,34.0,116.0,S,,2015-07-12 00:29:00
+2015-07-11 21:38:00+00:00,47.0,100.0,45.0,255.0,S,,2015-07-11 21:38:00
+2015-07-13 00:48:00+00:00,17.0,-97.0,28.0,545.0,C,"Measurement is somewhat rough, difficult to follow in C3",2015-07-13 00:48:00
+2015-07-13 08:40:00+00:00,49.0,90.0,14.0,415.0,S,"Ragged-front CME, fading in the C3 FOV.  Measurements are plane-of-sky, but the CME appears to have originated close to the limb anyhow.",2015-07-13 08:40:00
+2015-07-13 14:58:00+00:00,-10.0,-50.0,21.0,635.0,C,CME longitude is based on the location of the source active region.  There is also a small spray from the same area at around 06:12 - the CME merges with this spray early in its transit.,2015-07-13 14:58:00
+2015-07-15 02:17:00+00:00,17.0,90.0,28.0,185.0,S,"Measurements are plane-of-sky, but the origin is probably close to 90W anyhow.  CME has a multi-loop structure.",2015-07-15 02:17:00
+2015-07-15 06:02:00+00:00,-50.0,-129.0,25.0,180.0,S,This CME was hard to measure.  Assumed longitude was based on location of filament on far side of Sun.  This CME may be part of another DONKI CME entry: 2015-07-14T12:00Z.,2015-07-15 06:02:00
+2015-07-15 03:40:00+00:00,-50.0,168.0,29.0,220.0,S,"This may be part of the 2015-07-14Z10:00Z CME, not clear if it's a complex single CME or two separate ones.",2015-07-15 03:40:00
+2015-07-16 22:07:00+00:00,80.0,-3.0,13.0,870.0,C,"use SWPC_cat for parameters, fit 5 C3 images, CME seems very high lat, CME quite faint and to the north, although filament source is at lower lat and in the eastern quadrant. some fits give higher speeds >1000 km/s and lower lat.",2015-07-16 22:07:00
+2015-07-17 17:52:00+00:00,10.0,55.0,9.0,350.0,S,"CME very faint in C3, use AR 12388 as source for lat.",2015-07-17 17:52:00
+2015-07-18 19:16:00+00:00,0.0,90.0,30.0,133.0,S,,2015-07-18 19:16:00
+2015-07-18 17:33:00+00:00,15.0,100.0,39.0,208.0,S,,2015-07-18 17:33:00
+2015-07-18 21:53:00+00:00,10.0,92.0,32.0,212.0,S,,2015-07-18 21:53:00
+2015-07-19 05:13:00+00:00,12.0,91.0,30.0,222.0,S,,2015-07-19 05:13:00
+2015-07-19 01:57:00+00:00,20.0,92.0,42.0,331.0,S,,2015-07-19 01:57:00
+2015-07-19 10:13:00+00:00,9.0,95.0,23.0,257.0,S,,2015-07-19 10:13:00
+2015-07-19 10:52:00+00:00,41.0,124.0,20.0,316.0,S,Longitude identified using STEREO A and SOHO data. Very high northern latitude. Rising loops along the north east limb in SDO AIA 171 were seen around 22UT,2015-07-19 10:52:00
+2015-07-19 13:18:00+00:00,-28.0,70.0,26.0,483.0,S,,2015-07-19 13:18:00
+2015-07-19 14:30:00+00:00,-19.0,51.0,38.0,763.0,C,,2015-07-19 14:30:00
+2015-07-20 19:42:00+00:00,50.0,36.0,10.0,380.0,S,These measurements were made with SOHO LASCO C2.,2015-07-20 19:42:00
+2015-07-20 20:48:00+00:00,51.0,-12.0,10.0,328.0,S,Measurements were made with SOHO LASCO C2 only.,2015-07-20 20:48:00
+2015-07-20 22:14:00+00:00,-20.0,155.0,19.0,289.0,S,,2015-07-20 22:14:00
+2015-07-22 03:23:00+00:00,21.0,115.0,42.0,378.0,S,,2015-07-22 03:23:00
+2015-07-22 17:22:00+00:00,-43.0,-27.0,24.0,319.0,S,,2015-07-22 17:22:00
+2015-07-23 10:24:00+00:00,37.0,121.0,26.0,322.0,S,,2015-07-23 10:24:00
+2015-07-24 01:57:00+00:00,-75.0,-33.0,14.0,260.0,S,Measured in swpc_cat with only C2.  Very narrow and faint.,2015-07-24 01:57:00
+2015-07-25 01:30:00+00:00,32.0,161.0,18.0,400.0,S,Measurement is rough and using primarily C2 imagery.,2015-07-25 01:30:00
+2015-07-25 22:08:00+00:00,65.0,110.0,22.0,515.0,C,,2015-07-25 22:08:00
+2015-07-26 02:00:00+00:00,52.0,-107.0,29.0,600.0,C,"This measurement reflects the outer boundary measurement of the CME. The bright, inner portion of the CME produces lower speeds.",2015-07-26 02:00:00
+2015-07-26 18:48:00+00:00,42.0,168.0,44.0,353.0,S,Good looking fit in SWPC Cat using some C2 imagery and mostly C3 imagery,2015-07-26 18:48:00
+2015-07-29 18:00:00+00:00,68.0,-84.0,25.0,93.0,S,,2015-07-29 18:00:00
+2015-07-31 04:47:00+00:00,26.0,-137.0,36.0,381.0,S,,2015-07-31 04:47:00
+2015-07-31 23:05:00+00:00,-21.0,155.0,10.0,128.0,S,,2015-07-31 23:05:00
+2015-07-31 19:51:00+00:00,0.0,-30.0,10.0,488.0,S,,2015-07-31 19:51:00
+2015-08-01 01:50:00+00:00,16.0,-100.0,21.0,335.0,S,,2015-08-01 01:50:00
+2015-08-01 20:01:00+00:00,-30.0,-95.0,22.0,171.0,S,,2015-08-01 20:01:00
+2015-08-02 06:43:00+00:00,-18.0,-88.0,21.0,420.0,S,,2015-08-02 06:43:00
+2015-08-03 05:38:00+00:00,-25.0,-99.0,41.0,516.0,C,,2015-08-03 05:38:00
+2015-08-03 20:23:00+00:00,-36.0,-112.0,35.0,556.0,C,"Measurement was made using SWPC_CAT, with STEREO A coronagraphs and SOHO C3",2015-08-03 20:23:00
+2015-08-04 18:06:00+00:00,55.0,90.0,23.0,362.0,S,The longitude is plane of sky.,2015-08-04 18:06:00
+2015-08-05 01:12:00+00:00,71.0,12.0,21.0,314.0,S,Preliminary measurement done using SWPC_CAT.,2015-08-05 01:12:00
+2015-08-05 14:05:00+00:00,36.0,2.0,14.0,505.0,C,"Eruption seen to the north of C2/3, source filament (as seen in AIA 193/304) is mostly N-S oriented, which might result in the visible CME to be very narrow, but it cound be quite extended to the equator (and might possibly impact Earth), but without side view this can not be confirmed.",2015-08-05 14:05:00
+2015-08-06 02:51:00+00:00,21.0,-100.0,20.0,386.0,S,,2015-08-06 02:51:00
+2015-08-08 04:47:00+00:00,-20.0,-56.0,23.0,446.0,S,,2015-08-08 04:47:00
+2015-08-08 04:11:00+00:00,-15.0,-55.0,34.0,829.0,C,,2015-08-08 04:11:00
+2015-08-08 16:25:00+00:00,47.0,108.0,41.0,216.0,S,,2015-08-08 16:25:00
+2015-08-08 16:32:00+00:00,60.0,-93.0,12.0,357.0,S,,2015-08-08 16:32:00
+2015-08-09 07:52:00+00:00,-2.0,86.0,6.0,477.0,S,,2015-08-09 07:52:00
+2015-08-09 19:27:00+00:00,-32.0,-122.0,13.0,206.0,S,,2015-08-09 19:27:00
+2015-08-09 16:35:00+00:00,52.0,75.0,32.0,833.0,C,,2015-08-09 16:35:00
+2015-08-12 08:48:00+00:00,-34.0,97.0,27.0,498.0,S,,2015-08-12 08:48:00
+2015-08-12 21:22:00+00:00,-22.0,36.0,41.0,567.0,C,,2015-08-12 21:22:00
+2015-08-13 05:02:00+00:00,-15.0,32.0,23.0,403.0,S,,2015-08-13 05:02:00
+2015-08-13 07:39:00+00:00,43.0,99.0,24.0,569.0,C,,2015-08-13 07:39:00
+2015-08-14 18:08:00+00:00,-21.0,44.0,41.0,500.0,C,,2015-08-14 18:08:00
+2015-08-15 18:28:00+00:00,21.0,59.0,21.0,650.0,C,,2015-08-15 18:28:00
+2015-08-16 10:22:00+00:00,21.0,-112.0,25.0,232.0,S,,2015-08-16 10:22:00
+2015-08-16 20:40:00+00:00,12.0,-105.0,41.0,317.0,S,,2015-08-16 20:40:00
+2015-08-17 01:53:00+00:00,65.0,-43.0,15.0,224.0,S,,2015-08-17 01:53:00
+2015-08-20 19:17:00+00:00,-6.0,139.0,27.0,264.0,S,,2015-08-20 19:17:00
+2015-08-20 15:02:00+00:00,51.0,-126.0,27.0,689.0,C,,2015-08-20 15:02:00
+2015-08-21 19:40:00+00:00,-33.0,-7.0,39.0,350.0,S,,2015-08-21 19:40:00
+2015-08-22 10:45:00+00:00,5.0,-2.0,27.0,1057.0,O,Median result from ensemble simulation,2015-08-22 10:45:00
+2015-08-23 07:07:00+00:00,3.0,-45.0,11.0,1288.0,O,Quick but very narrow CME,2015-08-23 07:07:00
+2015-08-24 05:48:00+00:00,62.0,-100.0,24.0,225.0,S,Measurements are rough as the CME has no clear visible front.,2015-08-24 05:48:00
+2015-08-24 21:52:00+00:00,-15.0,97.0,35.0,278.0,S,,2015-08-24 21:52:00
+2015-08-25 04:29:00+00:00,13.0,123.0,14.0,500.0,C,Longitude estimated from source location seen in EUVI,2015-08-25 04:29:00
+2015-08-26 03:33:00+00:00,-34.0,63.0,38.0,325.0,S,,2015-08-26 03:33:00
+2015-08-26 23:57:00+00:00,-19.0,46.0,11.0,378.0,S,,2015-08-26 23:57:00
+2015-08-28 06:52:00+00:00,-17.0,-153.0,17.0,697.0,C,,2015-08-28 06:52:00
+2015-08-28 18:35:00+00:00,-6.0,74.0,32.0,309.0,S,Very approximate analysis since the source location not found. Used coordinates of the flare.,2015-08-28 18:35:00
+2015-08-30 14:12:00+00:00,56.0,-44.0,10.0,428.0,S,,2015-08-30 14:12:00
+2015-08-31 18:06:00+00:00,-11.0,92.0,23.0,434.0,S,Very rough estimates since CME was very faint in LASCO C3 images.,2015-08-31 18:06:00
+2015-08-31 17:16:00+00:00,51.0,112.0,17.0,455.0,S,Very rough estimates since CME is very faint in the LASCO images.,2015-08-31 17:16:00
+2015-09-01 09:36:00+00:00,74.0,158.0,36.0,400.0,S,"Direction uncertain, likely back-sided",2015-09-01 09:36:00
+2015-09-01 06:08:00+00:00,-25.0,-105.0,14.0,660.0,C,,2015-09-01 06:08:00
+2015-09-02 02:48:00+00:00,-21.0,-1.0,10.0,676.0,C,These are preliminary measurements using LASCO C2. More images are needed to get an accurate measurement.,2015-09-02 02:48:00
+2015-09-03 02:19:00+00:00,29.0,102.0,35.0,404.0,S,"CME source could not be identified on the Sun's surface, but some organization and eruption of magnetic field lines could be visible in SDO 171/193.  The location was then approximated.",2015-09-03 02:19:00
+2015-09-04 03:11:00+00:00,-22.0,90.0,33.0,328.0,S,Analysis very unreliable since longitude is more or less a guess as no definite source location found.,2015-09-04 03:11:00
+2015-09-05 02:10:00+00:00,-43.0,10.0,23.0,302.0,S,Measured in swpc_cat using C3 imagery.,2015-09-05 02:10:00
+2015-09-05 12:47:00+00:00,-25.0,-20.0,55.0,325.0,S,,2015-09-05 12:47:00
+2015-09-07 08:43:00+00:00,-15.0,-26.0,18.0,256.0,S,CME analysis is unreliable since the source was assumed to be the darkening that seems to have happened after the CME was detected.,2015-09-07 08:43:00
+2015-09-07 23:14:00+00:00,45.0,38.0,38.0,300.0,S,,2015-09-07 23:14:00
+2015-09-08 16:44:00+00:00,59.0,90.0,20.0,340.0,S,This measurement is plane of sky only.  Probable source longitude is closer to 100-120 degrees.,2015-09-08 16:44:00
+2015-09-08 22:59:00+00:00,55.0,-90.0,16.0,280.0,S,"CME was very ragged and tough to measure.  Measurement is plane of sky only, source is probably behind the East limb.",2015-09-08 22:59:00
+2015-09-11 19:00:00+00:00,20.0,24.0,10.0,735.0,C,These are preliminary measurements taken using C2 and based on limited imagery.,2015-09-11 19:00:00
+2015-09-16 01:41:00+00:00,90.0,2.0,21.0,470.0,S,The CME may be more back sided than this measurement suggests. Done with SWPC_CAT c3 images.,2015-09-16 01:41:00
+2015-09-16 17:40:00+00:00,-13.0,-73.0,11.0,404.0,S,,2015-09-16 17:40:00
+2015-09-18 09:37:00+00:00,-26.0,7.0,38.0,744.0,C,CME analysis very approximate since source location is not very clear (no pronounced darkening). Analyzed CME in SWPC CAT.,2015-09-18 09:37:00
+2015-09-19 21:25:00+00:00,-49.0,105.0,37.0,372.0,S,Measurements done in SWPC-CAT using C3 images.  The source location is believed to be back sided as there were no eruptions or signatures seen in SDO AIA imagery.,2015-09-19 21:25:00
+2015-09-20 16:40:00+00:00,-17.0,-90.0,10.0,540.0,C,,2015-09-20 16:40:00
+2015-09-20 21:15:00+00:00,-23.0,51.0,40.0,1100.0,O,,2015-09-20 21:15:00
+2015-09-21 10:52:00+00:00,-4.0,-70.0,20.0,608.0,C,Measurements are done with SWPC_Cat but the images are still very close to the solar surface.,2015-09-21 10:52:00
+2015-09-22 13:03:00+00:00,-14.0,104.0,17.0,240.0,S,Direction uncertain,2015-09-22 13:03:00
+2015-09-23 11:19:00+00:00,-31.0,-178.0,56.0,177.0,S,"This is a preliminary measurement done in SWPC_cat using a few of the C3 images. In addition, this measurement was done with an unclear source location but assuming back sided.",2015-09-23 11:19:00
+2015-09-23 10:14:00+00:00,-33.0,-141.0,42.0,402.0,S,Measurements are very rough since CME is very faint and the available images are not good.,2015-09-23 10:14:00
+2015-09-24 03:48:00+00:00,-14.0,-51.0,21.0,364.0,S,,2015-09-24 03:48:00
+2015-09-24 08:03:00+00:00,-9.0,-34.0,20.0,724.0,C,Source location uncertain b/c of a data gap in AIA 193. Long/lat are a guess based on the location of a dimming ~lat/lon(-10; -35) after the data gap.,2015-09-24 08:03:00
+2015-09-26 10:54:00+00:00,-28.0,-53.0,15.0,193.0,S,,2015-09-26 10:54:00
+2015-09-27 08:58:00+00:00,1.0,-88.0,10.0,421.0,S,,2015-09-27 08:58:00
+2015-09-27 20:50:00+00:00,22.0,-49.0,20.0,700.0,C,,2015-09-27 20:50:00
+2015-09-28 15:50:00+00:00,3.0,76.0,31.0,387.0,S,,2015-09-28 15:50:00
+2015-09-29 19:46:00+00:00,-26.0,-80.0,31.0,180.0,S,"CME was fairly faint - source seemed to be behind the East limb, but triangulation of common features observed in LASCO and STEREO-A COR2 indicated lower eastern longitude.",2015-09-29 19:46:00
+2015-09-29 19:18:00+00:00,79.0,24.0,24.0,465.0,S,"Measurement is approximate.  CME has a ragged front, and is fairly narrow so it is assumed that the trajectory is strongly northward. However, there is a great deal of uncertainty.",2015-09-29 19:18:00
+2015-09-30 15:00:00+00:00,-55.0,-40.0,21.0,275.0,S,,2015-09-30 15:00:00
+2015-09-30 16:35:00+00:00,-15.0,49.0,37.0,584.0,C,,2015-09-30 16:35:00
+2015-09-30 18:00:00+00:00,34.0,116.0,50.0,595.0,C,,2015-09-30 18:00:00
+2015-10-01 12:22:00+00:00,-21.0,104.0,26.0,483.0,S,CME analysis covers the bulk of the CME only not the shock (very faint shock).,2015-10-01 12:22:00
+2015-10-04 13:30:00+00:00,19.0,96.0,16.0,560.0,C,,2015-10-04 13:30:00
+2015-10-05 21:08:00+00:00,19.0,102.0,23.0,970.0,C,"CME had a streamer before main eruption, determining leading edge was somewhat difficult. Analysis mostly from STA.",2015-10-05 21:08:00
+2015-10-07 12:50:00+00:00,-12.0,95.0,30.0,550.0,C,,2015-10-07 12:50:00
+2015-10-11 14:40:00+00:00,-26.0,-93.0,27.0,140.0,S,,2015-10-11 14:40:00
+2015-10-12 03:25:00+00:00,-15.0,-107.0,11.0,468.0,S,,2015-10-12 03:25:00
+2015-10-14 01:30:00+00:00,-20.0,85.0,18.0,150.0,S,,2015-10-14 01:30:00
+2015-10-13 20:44:00+00:00,-21.0,-102.0,23.0,440.0,S,,2015-10-13 20:44:00
+2015-10-14 08:11:00+00:00,65.0,-130.0,32.0,410.0,S,Longitude estimated using the center of the filament visible in EUVIA.  Only LASCO available.,2015-10-14 08:11:00
+2015-10-14 04:18:00+00:00,-18.0,-95.0,17.0,790.0,C,,2015-10-14 04:18:00
+2015-10-15 11:35:00+00:00,46.0,-114.0,30.0,276.0,S,,2015-10-15 11:35:00
+2015-10-15 09:51:00+00:00,59.0,-119.0,30.0,579.0,C,,2015-10-15 09:51:00
+2015-10-16 04:00:00+00:00,24.0,166.0,20.0,405.0,S,CME was very faint and difficult to define.  Measurements should be viewed as approximate.,2015-10-16 04:00:00
+2015-10-17 00:15:00+00:00,3.0,-100.0,41.0,330.0,S,"CME front was ragged and difficult to define.  There may be separate eruptions that are overlapping, or one eruption.",2015-10-17 00:15:00
+2015-10-18 16:22:00+00:00,-15.0,-65.0,25.0,193.0,S,,2015-10-18 16:22:00
+2015-10-18 18:24:00+00:00,-15.0,-59.0,23.0,193.0,S,,2015-10-18 18:24:00
+2015-10-19 13:26:00+00:00,24.0,-104.0,31.0,270.0,S,,2015-10-19 13:26:00
+2015-10-19 13:19:00+00:00,7.0,-90.0,25.0,400.0,S,Event associated with a filament eruption in the eastern limb. Eruption seen in both SDO and STEREO EUV imagery.,2015-10-19 13:19:00
+2015-10-22 07:09:00+00:00,-13.0,37.0,43.0,861.0,C,Good SOHO coverage; 1 STEREO A image only available.,2015-10-22 07:09:00
+2015-10-24 19:48:00+00:00,10.0,-143.0,12.0,283.0,S,These are measurements using swpc_cat C3 imagery.,2015-10-24 19:48:00
+2015-10-25 12:31:00+00:00,-6.0,-133.0,28.0,446.0,S,,2015-10-25 12:31:00
+2015-10-27 13:01:00+00:00,19.0,-90.0,21.0,420.0,S,"This was a bright, narrow eruption.  Measurements are plane of sky only - not clear what the true direction is, but probably close to -90.",2015-10-27 13:01:00
+2015-10-27 20:07:00+00:00,-19.0,90.0,32.0,549.0,C,"Measurements were done in swpc_cat, using both c2 and c3 images.",2015-10-27 20:07:00
+2015-10-28 08:47:00+00:00,16.0,-73.0,20.0,335.0,S,Measurements were preliminary and done using  only a few c3 frames.,2015-10-28 08:47:00
+2015-10-28 21:45:00+00:00,3.0,-93.0,21.0,278.0,S,,2015-10-28 21:45:00
+2015-10-28 23:47:00+00:00,-20.0,-33.0,25.0,430.0,S,"parameters from C3 rather close to disk, should be remeasured with back-filled images",2015-10-28 23:47:00
+2015-10-29 09:02:00+00:00,-15.0,151.0,28.0,402.0,S,,2015-10-29 09:02:00
+2015-10-29 12:59:00+00:00,-24.0,95.0,31.0,390.0,S,,2015-10-29 12:59:00
+2015-10-29 17:36:00+00:00,-22.0,-41.0,19.0,400.0,S,,2015-10-29 17:36:00
+2015-10-30 23:15:00+00:00,-4.0,-51.0,28.0,655.0,C,Measured with C3 in swpc_cat.,2015-10-30 23:15:00
+2015-10-31 11:03:00+00:00,38.0,55.0,13.0,344.0,S,POS measurement on STEREO CAT.,2015-10-31 11:03:00
+2015-11-01 03:47:00+00:00,31.0,97.0,35.0,240.0,S,,2015-11-01 03:47:00
+2015-11-01 18:21:00+00:00,25.0,-109.0,32.0,629.0,C,,2015-11-01 18:21:00
+2015-11-01 18:42:00+00:00,25.0,63.0,22.0,666.0,C,,2015-11-01 18:42:00
+2015-11-02 12:30:00+00:00,-22.0,-121.0,44.0,379.0,S,,2015-11-02 12:30:00
+2015-11-03 02:14:00+00:00,-24.0,102.0,44.0,782.0,C,,2015-11-03 02:14:00
+2015-11-04 05:14:00+00:00,30.0,-100.0,24.0,215.0,S,"CME was quite faint, with a bright core.  Longitude was an estimate based on apparent source behind the east limb.",2015-11-04 05:14:00
+2015-11-04 09:57:00+00:00,18.0,53.0,25.0,458.0,S,Measured with swpc_cat using C2.  C3 images were obstructed by the arm.,2015-11-04 09:57:00
+2015-11-04 13:43:00+00:00,8.0,76.0,33.0,369.0,S,"Measured with swpc_cat using C2 imagery.  Looks like it fades and merges with the earlier 2015-11-04T02:12Z CME, as only one distinct CME is visible in C3.",2015-11-04 13:43:00
+2015-11-04 19:30:00+00:00,-6.0,18.0,50.0,780.0,C,,2015-11-04 19:30:00
+2015-11-05 14:43:00+00:00,0.0,-95.0,18.0,422.0,S,,2015-11-05 14:43:00
+2015-11-06 03:21:00+00:00,-28.0,-96.0,30.0,379.0,S,,2015-11-06 03:21:00
+2015-11-07 19:20:00+00:00,-17.0,-61.0,15.0,265.0,S,"Measurement done using SWPC_CAT with C2 imagery, as fades out quickly in C3 imagery.",2015-11-07 19:20:00
+2015-11-09 18:26:00+00:00,-22.0,-44.0,47.0,647.0,C,,2015-11-09 18:26:00
+2015-11-11 20:07:00+00:00,26.0,36.0,39.0,755.0,C,"CME fit with SPWC_cat, CME very faint, only part of halo is visible in difference images, mostly SW part is fit, lon/lat can range for 44/24, 36/26, 41/20, angle 44/39/36, speeds all similar (702/755/768)",2015-11-11 20:07:00
+2015-11-12 09:06:00+00:00,-22.0,-41.0,31.0,322.0,S,,2015-11-12 09:06:00
+2015-11-16 04:50:00+00:00,-27.0,27.0,28.0,692.0,C,,2015-11-16 04:50:00
+2015-11-16 06:45:00+00:00,-28.0,31.0,41.0,827.0,C,,2015-11-16 06:45:00
+2015-11-17 18:41:00+00:00,11.0,-109.0,18.0,217.0,S,"Very faint, not visible in C3",2015-11-17 18:41:00
+2015-11-22 16:48:00+00:00,3.0,-25.0,32.0,473.0,S,,2015-11-22 16:48:00
+2015-11-25 15:08:00+00:00,-14.0,107.0,30.0,425.0,S,,2015-11-25 15:08:00
+2015-11-27 03:52:00+00:00,-7.0,100.0,19.0,320.0,S,CME was fairly narrow and faint.,2015-11-27 03:52:00
+2015-11-28 07:47:00+00:00,20.0,-160.0,28.0,322.0,S,,2015-11-28 07:47:00
+2015-11-29 07:49:00+00:00,-38.0,-97.0,29.0,547.0,C,,2015-11-29 07:49:00
+2015-11-29 13:01:00+00:00,-3.0,-160.0,44.0,770.0,C,"New parameters using SOHO C2, C3, and STA imagery.",2015-11-29 13:01:00
+2015-11-30 12:30:00+00:00,-23.0,110.0,36.0,455.0,S,,2015-11-30 12:30:00
+2015-11-30 16:50:00+00:00,36.0,-118.0,15.0,389.0,S,,2015-11-30 16:50:00
+2015-12-01 12:48:00+00:00,11.0,103.0,27.0,310.0,S,This measurement is only plane-of-sky for STEREO-A.  No LASCO C2 or C3 data were used.,2015-12-01 12:48:00
+2015-12-02 07:05:00+00:00,37.0,118.0,7.0,320.0,S,"This measurement is plane of sky only for STEREO A, not using C2 or C3 data.",2015-12-02 07:05:00
+2015-12-03 05:10:00+00:00,11.0,48.0,29.0,127.0,S,Measured with swpc_cat using SOHO LASCO C2 and STA Cor2 imagery.,2015-12-03 05:10:00
+2015-12-03 03:58:00+00:00,-15.0,-115.0,30.0,580.0,C,,2015-12-03 03:58:00
+2015-12-04 23:42:00+00:00,26.0,-66.0,29.0,605.0,C,,2015-12-04 23:42:00
+2015-12-05 12:32:00+00:00,34.0,-66.0,18.0,324.0,S,These are preliminary measurements using STA coronagraph imagery only.,2015-12-05 12:32:00
+2015-12-07 00:58:00+00:00,13.0,-92.0,18.0,222.0,S,,2015-12-07 00:58:00
+2015-12-07 00:00:00+00:00,8.0,95.0,17.0,321.0,S,,2015-12-07 00:00:00
+2015-12-07 11:22:00+00:00,-16.0,-83.0,27.0,515.0,C,,2015-12-07 11:22:00
+2015-12-07 19:25:00+00:00,-3.0,-119.0,38.0,802.0,C,,2015-12-07 19:25:00
+2015-12-09 05:14:00+00:00,-13.0,-46.0,22.0,308.0,S,"Measured in swpc_cat, but there was a data gap just after the start of the cme, and it is very faint and fades fairly quickly in c3, so only had a few frames along with a couple from STA.",2015-12-09 05:14:00
+2015-12-11 10:18:00+00:00,-3.0,-82.0,19.0,671.0,C,This is a preliminary measurement done using Cor2A beacon images and just a few images from C2.  Measurments should be redone once the CME can be seen in C3,2015-12-11 10:18:00
+2015-12-13 18:08:00+00:00,-1.0,-29.0,17.0,438.0,S,,2015-12-13 18:08:00
+2015-12-16 09:21:00+00:00,41.0,-46.0,13.0,237.0,S,This is a preliminary measurement done using only a few frames in C2.,2015-12-16 09:21:00
+2015-12-16 15:30:00+00:00,12.0,-30.0,45.0,650.0,C,"source region is located very close to disk center, but CME moving to the east, only partial halo, very dim CME in LASCO C3, measurement with SWPC_cat using C3 and STA images",2015-12-16 15:30:00
+2015-12-16 20:55:00+00:00,-8.0,-9.0,45.0,580.0,C,"Analysis with SWPC_cat, using LASCO C3 images only (no real-time STA images). CME is due to filament eruption with is located in the north-south direction - CME has pronounced structure to the SE, but a faint 360 deg halo is visible. This halo fades out quickly in the C3 FOV, fit was done with inner images fitting the complete halo.",2015-12-16 20:55:00
+2015-12-18 14:23:00+00:00,18.0,-91.0,19.0,228.0,S,Measurement done using C3 imagery and STA COR2A.  CME is just beyond the SDO limb.,2015-12-18 14:23:00
+2015-12-19 17:17:00+00:00,23.0,-102.0,33.0,903.0,C,,2015-12-19 17:17:00
+2015-12-20 11:11:00+00:00,7.0,129.0,22.0,398.0,S,Longitude was approximated using SWPC_Cat,2015-12-20 11:11:00
+2015-12-21 06:00:00+00:00,5.0,65.0,34.0,361.0,S,,2015-12-21 06:00:00
+2015-12-21 12:18:00+00:00,0.0,-58.0,32.0,268.0,S,,2015-12-21 12:18:00
+2015-12-21 09:15:00+00:00,-17.0,-82.0,21.0,416.0,S,These measurements are a little rough since CME mixes with a previous slower CME and it is very difficult to measure.,2015-12-21 09:15:00
+2015-12-22 04:46:00+00:00,-25.0,114.0,25.0,186.0,S,,2015-12-22 04:46:00
+2015-12-21 21:58:00+00:00,-20.0,-80.0,23.0,309.0,S,,2015-12-21 21:58:00
+2015-12-22 10:55:00+00:00,-11.0,-80.0,21.0,290.0,S,Excellent coverage with LASCO and STEREO-A.,2015-12-22 10:55:00
+2015-12-22 09:22:00+00:00,-15.0,-66.0,20.0,363.0,S,,2015-12-22 09:22:00
+2015-12-23 07:09:00+00:00,-21.0,-56.0,18.0,501.0,C,Measured with C3 and STA Cor2 in swpc_cat.,2015-12-23 07:09:00
+2015-12-24 01:40:00+00:00,-60.0,-3.0,41.0,263.0,S,,2015-12-24 01:40:00
+2015-12-24 03:31:00+00:00,-43.0,155.0,46.0,650.0,C,prelim. meas. large error in longitude.,2015-12-24 03:31:00
+2015-12-24 12:00:00+00:00,-17.0,-45.0,33.0,715.0,C,,2015-12-24 12:00:00
+2015-12-28 16:43:00+00:00,-15.0,14.0,58.0,850.0,C,The measurements are very preliminary due to the available imagery.  Only the bulk of the CME is being measured (not the shock).,2015-12-28 16:43:00
+2015-12-28 23:10:00+00:00,-23.0,23.0,14.0,983.0,C,Propagation direction uncertain. Originates from estimated source region location. POS speed 4-500 km/s,2015-12-28 23:10:00
+2015-12-30 15:20:00+00:00,-19.0,44.0,17.0,444.0,S,Measured in swpc_cat with C3 imagery.,2015-12-30 15:20:00
+2016-01-01 23:12:00+00:00,-34.0,73.0,37.0,1588.0,O,,2016-01-01 23:12:00
+2016-01-03 17:06:00+00:00,-25.0,53.0,18.0,598.0,C,There are preliminary measurements based off of limited LASCO C3 imagery using swpc_cat.,2016-01-03 17:06:00
+2016-01-04 22:20:00+00:00,-26.0,-51.0,22.0,400.0,S,,2016-01-04 22:20:00
+2016-01-05 09:36:00+00:00,-5.0,115.0,29.0,360.0,S,"The front of this CME is very rough - it's possible that much of the bright features are due to prominence material, and not the real CME front.",2016-01-05 09:36:00
+2016-01-05 16:16:00+00:00,54.0,-100.0,27.0,285.0,S,"This is a good ""classic"" CME in that it has a well-observed outer front in both SOHO and STEREO coronagraph images, an inner cavity and bright prominence core.",2016-01-05 16:16:00
+2016-01-05 04:36:00+00:00,-21.0,105.0,19.0,530.0,C,,2016-01-05 04:36:00
+2016-01-06 00:51:00+00:00,-83.0,28.0,33.0,299.0,S,,2016-01-06 00:51:00
+2016-01-06 17:59:00+00:00,-7.0,138.0,45.0,940.0,C,,2016-01-06 17:59:00
+2016-01-08 16:30:00+00:00,-35.0,66.0,21.0,662.0,C,,2016-01-08 16:30:00
+2016-01-09 14:00:00+00:00,-24.0,46.0,14.0,606.0,C,,2016-01-09 14:00:00
+2016-01-09 19:10:00+00:00,-24.0,46.0,14.0,606.0,C,,2016-01-09 19:10:00
+2016-01-12 23:13:00+00:00,22.0,-100.0,31.0,318.0,S,,2016-01-12 23:13:00
+2016-01-13 06:45:00+00:00,20.0,-100.0,45.0,332.0,S,"CME is backsided: no source is found in SDO, and rising loops are seen in the western limb in Stereo A EUVI after 21:15.",2016-01-13 06:45:00
+2016-01-13 13:46:00+00:00,51.0,-100.0,28.0,224.0,S,,2016-01-13 13:46:00
+2016-01-15 11:43:00+00:00,-30.0,31.0,45.0,483.0,S,,2016-01-15 11:43:00
+2016-01-16 19:45:00+00:00,8.0,-51.0,26.0,290.0,S,These are preliminary measurements using stereo cat and C2 images.  The CME was not seen in C3.,2016-01-16 19:45:00
+2016-01-17 10:42:00+00:00,-70.0,1.0,31.0,297.0,S,"These are preliminary measurements based off of limited imagery using SOHO LASCO C3, because the CME was faint.",2016-01-17 10:42:00
+2016-01-17 13:53:00+00:00,-55.0,37.0,25.0,466.0,S,Measurements taken using LASCO C3 imagery in swpc_cat.,2016-01-17 13:53:00
+2016-01-19 23:11:00+00:00,-31.0,27.0,32.0,324.0,S,These were measurements taking using swpc_cat SOHO LASCO C3 imagery.,2016-01-19 23:11:00
+2016-01-21 20:42:00+00:00,-40.0,110.0,45.0,351.0,S,,2016-01-21 20:42:00
+2016-01-23 02:16:00+00:00,-38.0,2.0,22.0,541.0,C,These measurements were taken in swpc_cat using SOHO LASCO C3 and STEREO A coronagraph imagery.,2016-01-23 02:16:00
+2016-01-24 20:46:00+00:00,-41.0,-78.0,15.0,457.0,S,Measured in swpc_cat with C2 and STA Cor2 imagery.,2016-01-24 20:46:00
+2016-01-26 04:00:00+00:00,13.0,85.0,32.0,250.0,S,,2016-01-26 04:00:00
+2016-01-26 05:30:00+00:00,-15.0,-110.0,27.0,420.0,S,"CME front was faint and fairly ragged, and faded once it was in the C3 FOV.",2016-01-26 05:30:00
+2016-01-26 23:20:00+00:00,-30.0,55.0,35.0,820.0,C,,2016-01-26 23:20:00
+2016-01-28 13:09:00+00:00,0.0,53.0,19.0,555.0,C,,2016-01-28 13:09:00
+2016-01-30 01:42:00+00:00,-24.0,85.0,35.0,856.0,C,This measurement was done using SWPC_CAT and C3 images.,2016-01-30 01:42:00
+2016-01-30 22:51:00+00:00,-3.0,-51.0,25.0,585.0,C,,2016-01-30 22:51:00
+2016-01-31 22:03:00+00:00,-21.0,-93.0,16.0,220.0,S,"Measured in swpc_cat with C2 imagery only, as arm on C3 blocked the main structure of the CME.",2016-01-31 22:03:00
+2016-02-01 16:14:00+00:00,25.0,60.0,25.0,475.0,S,"CME was very faint, difficult to define.",2016-02-01 16:14:00
+2016-02-02 00:24:00+00:00,-6.0,-26.0,20.0,585.0,C,,2016-02-02 00:24:00
+2016-02-03 18:06:00+00:00,15.0,-85.0,24.0,140.0,S,The CME was slowly evolving and at times didn't have a distinct front.,2016-02-03 18:06:00
+2016-02-03 17:36:00+00:00,-32.0,122.0,33.0,460.0,S,using swpc_cat measuring outer CME,2016-02-03 17:36:00
+2016-02-04 09:14:00+00:00,-33.0,-90.0,20.0,200.0,S,,2016-02-04 09:14:00
+2016-02-06 05:35:00+00:00,-31.0,44.0,35.0,364.0,S,,2016-02-06 05:35:00
+2016-02-07 14:44:00+00:00,-11.0,58.0,27.0,332.0,S,,2016-02-07 14:44:00
+2016-02-08 16:43:00+00:00,55.0,-90.0,44.0,393.0,S,,2016-02-08 16:43:00
+2016-02-08 06:39:00+00:00,-23.0,38.0,12.0,428.0,S,,2016-02-08 06:39:00
+2016-02-09 10:20:00+00:00,48.0,-75.0,26.0,350.0,S,"CME was clearest in STEREO-A and LASCO C2 images.  There were a variety of lat/lons that have close fits too, but N48E75 worked best for the outer images.",2016-02-09 10:20:00
+2016-02-09 08:31:00+00:00,20.0,70.0,31.0,600.0,C,"This CME was really faint, disappearing early in the C3 FOV.",2016-02-09 08:31:00
+2016-02-09 13:24:00+00:00,-22.0,90.0,37.0,550.0,C,,2016-02-09 13:24:00
+2016-02-10 05:09:00+00:00,14.0,-76.0,14.0,450.0,S,,2016-02-10 05:09:00
+2016-02-17 11:29:00+00:00,-30.0,151.0,21.0,680.0,C,,2016-02-17 11:29:00
+2016-02-18 04:40:00+00:00,9.0,85.0,31.0,333.0,S,Preliminary measurement done using SWPC CAT.  CME only propagates halfway out into C3.,2016-02-18 04:40:00
+2016-02-19 04:50:00+00:00,-21.0,-37.0,25.0,600.0,C,"measurement with SWPC_cat, using mostly STA COR2 images, only 3 C3 images available rather close to sun surface, C3 gives somewhat lower speeds (~550), STA higher ones (up to 650).",2016-02-19 04:50:00
+2016-02-21 16:50:00+00:00,-8.0,120.0,31.0,653.0,C,,2016-02-21 16:50:00
+2016-02-24 20:48:00+00:00,-26.0,-112.0,25.0,530.0,C,"using SWPC_cat, STA and C3 images",2016-02-24 20:48:00
+2016-02-27 10:28:00+00:00,-20.0,-76.0,23.0,597.0,C,This measurement was done using SWPC_CAT stereo A imagery.  The measurement should probably be redone once the SOHO images come in but for some reason they have not updated for the last 12 hours.,2016-02-27 10:28:00
+2016-02-27 11:52:00+00:00,12.0,-131.0,21.0,553.0,C,,2016-02-27 11:52:00
+2016-03-01 15:04:00+00:00,5.0,-75.0,30.0,575.0,C,,2016-03-01 15:04:00
+2016-03-05 00:15:00+00:00,18.0,-104.0,20.0,298.0,S,CME measured in SWPC Cat using backfilled C2 and C3 images as well as Stereo A imagery,2016-03-05 00:15:00
+2016-03-06 18:28:00+00:00,-11.0,56.0,19.0,284.0,S,,2016-03-06 18:28:00
+2016-03-07 10:53:00+00:00,-15.0,80.0,35.0,360.0,S,,2016-03-07 10:53:00
+2016-03-09 06:21:00+00:00,22.0,89.0,45.0,307.0,S,,2016-03-09 06:21:00
+2016-03-10 21:10:00+00:00,-13.0,-107.0,25.0,535.0,C,,2016-03-10 21:10:00
+2016-03-11 00:51:00+00:00,25.0,90.0,12.0,650.0,C,"POS measurement, source is located W at limb, assume lon=90, CME fades out further away from the sun, measurement from rather close to the solar disk",2016-03-11 00:51:00
+2016-03-11 20:14:00+00:00,-31.0,-70.0,27.0,392.0,S,,2016-03-11 20:14:00
+2016-03-13 07:44:00+00:00,3.0,-92.0,28.0,407.0,S,,2016-03-13 07:44:00
+2016-03-14 02:07:00+00:00,-13.0,-68.0,21.0,579.0,C,,2016-03-14 02:07:00
+2016-03-14 09:29:00+00:00,34.0,20.0,39.0,450.0,S,,2016-03-14 09:29:00
+2016-03-15 01:18:00+00:00,-19.0,-90.0,19.0,544.0,C,,2016-03-15 01:18:00
+2016-03-15 21:03:00+00:00,48.0,95.0,20.0,165.0,S,"CME was very slow to accelerate, overlaps occulter almost perfectly in C3 images so no later measurements.",2016-03-15 21:03:00
+2016-03-15 13:10:00+00:00,50.0,95.0,32.0,590.0,C,"Very difficult CME to measure, mixing in with the prior CME (2016-03-15T21:12Z) and also very ragged front.  Aligned with the occulter in LASCO C3 so no leading edge visible.",2016-03-15 13:10:00
+2016-03-16 09:50:00+00:00,19.0,114.0,28.0,570.0,C,"SWPC_cat using C3 and STA, CME is followed by second CME a few hours later, they seem to merge on the way out, measurements closer to sun when the CMEs are still separated.",2016-03-16 09:50:00
+2016-03-16 12:23:00+00:00,1.0,90.0,44.0,670.0,C,"swpc_cat with C3 and STA, CME is rather fuzzy and can not be followed very far as it merges with slower CME a few hours earlier and fades. For fit used images closer to solar disk before merging. CME seems to slow a bit (probably due to merging with the slower CME).",2016-03-16 12:23:00
+2016-03-17 23:54:00+00:00,3.0,100.0,17.0,219.0,S,,2016-03-17 23:54:00
+2016-03-17 20:06:00+00:00,-36.0,100.0,23.0,482.0,S,,2016-03-17 20:06:00
+2016-03-18 19:51:00+00:00,-12.0,90.0,22.0,169.0,S,Faint CME. Analysis based on two or three images.,2016-03-18 19:51:00
+2016-03-21 02:33:00+00:00,-19.0,90.0,29.0,350.0,S,"very faint CME, source at west limb, use STEREO_cat with lon=90",2016-03-21 02:33:00
+2016-03-23 04:50:00+00:00,-26.0,-63.0,23.0,275.0,S,,2016-03-23 04:50:00
+2016-03-22 07:03:00+00:00,-63.0,-26.0,23.0,309.0,S,This is based on measurement of C2 and STEREO,2016-03-22 07:03:00
+2016-03-23 11:26:00+00:00,23.0,10.0,20.0,503.0,C,These measurements were done using the backfilled SOHO C3 data as well as STA COR2A.  This speed is slightly higher than the original measurements done using only Stereo A.,2016-03-23 11:26:00
+2016-03-29 04:15:00+00:00,47.0,-100.0,30.0,395.0,S,"CME front was not very clear, difficult to fit.",2016-03-29 04:15:00
+2016-03-30 21:37:00+00:00,-24.0,134.0,42.0,415.0,S,"preliminary measurement using SWPC_cat with STA images only, should be remeasured with LASCO images. CME is rather faint further away from the disk.",2016-03-30 21:37:00
+2016-03-31 08:18:00+00:00,-32.0,48.0,18.0,470.0,S,,2016-03-31 08:18:00
+2016-04-02 04:00:00+00:00,-22.0,73.0,24.0,237.0,S,Measurement done using SWPC_Cat C2 and C3 imagery.,2016-04-02 04:00:00
+2016-04-03 05:46:00+00:00,-22.0,-102.0,30.0,303.0,S,"The source is unknown, likely back sided, near the eastern limb.",2016-04-03 05:46:00
+2016-04-03 13:17:00+00:00,-26.0,46.0,12.0,280.0,S,These are very preliminary measurements using C2 in swpc_cat.,2016-04-03 13:17:00
+2016-04-04 14:03:00+00:00,30.0,-80.0,32.0,435.0,S,,2016-04-04 14:03:00
+2016-04-05 14:25:00+00:00,-22.0,95.0,19.0,445.0,S,"Measurements preliminary, based on close to Sun detection only.",2016-04-05 14:25:00
+2016-04-07 02:12:00+00:00,50.0,19.0,48.0,100.0,S,Triangulation measurements with SWPC_Cat indicated a pretty clear front-sided source; attempts to fit the CME with back-sided longitudes were far off.   CME leading edge was pretty faint by the time it got to the edge of the STA COR2 FOV.,2016-04-07 02:12:00
+2016-04-06 23:36:00+00:00,23.0,14.0,31.0,464.0,S,,2016-04-06 23:36:00
+2016-04-07 17:14:00+00:00,30.0,-45.0,13.0,340.0,S,,2016-04-07 17:14:00
+2016-04-08 04:15:00+00:00,0.0,120.0,33.0,740.0,C,,2016-04-08 04:15:00
+2016-04-09 02:36:00+00:00,-24.0,97.0,15.0,454.0,S,Measurements done in SWPC_Cat using both C2 and C3 imagery.,2016-04-09 02:36:00
+2016-04-10 00:09:00+00:00,14.0,-65.0,20.0,311.0,S,These measurements were taken using LASCO C3 imagery in swpc_cat.,2016-04-10 00:09:00
+2016-04-10 07:49:00+00:00,-29.0,23.0,26.0,263.0,S,,2016-04-10 07:49:00
+2016-04-11 17:34:00+00:00,32.0,-110.0,31.0,369.0,S,,2016-04-11 17:34:00
+2016-04-12 12:28:00+00:00,-16.0,-173.0,44.0,380.0,S,Complex appearance.,2016-04-12 12:28:00
+2016-04-14 05:50:00+00:00,30.0,107.0,24.0,309.0,S,Measured in swpc_cat with C2 imagery (arm blocked CME in C2).,2016-04-14 05:50:00
+2016-04-15 05:30:00+00:00,23.0,110.0,21.0,193.0,S,,2016-04-15 05:30:00
+2016-04-16 02:03:00+00:00,18.0,-122.0,10.0,328.0,S,Measurement  done using SWPC cat and shows a very narrow and slow moving CME,2016-04-16 02:03:00
+2016-04-16 18:10:00+00:00,-30.0,-85.0,25.0,369.0,S,No source region could be identified because this CME started out as a streamer and slowly became larger.,2016-04-16 18:10:00
+2016-04-17 09:39:00+00:00,4.0,43.0,36.0,254.0,S,,2016-04-17 09:39:00
+2016-04-18 04:49:00+00:00,9.0,58.0,37.0,689.0,C,CME associated with M6.7 class flare that peaked at 2016-04-18T00:29Z from AR 2529.,2016-04-18 04:49:00
+2016-04-19 17:42:00+00:00,13.0,5.0,38.0,328.0,S,,2016-04-19 17:42:00
+2016-04-21 09:10:00+00:00,7.0,-109.0,10.0,283.0,S,,2016-04-21 09:10:00
+2016-04-24 11:14:00+00:00,24.0,115.0,40.0,510.0,C,,2016-04-24 11:14:00
+2016-04-25 06:54:00+00:00,43.0,121.0,40.0,231.0,S,,2016-04-25 06:54:00
+2016-04-25 07:10:00+00:00,7.0,-163.0,45.0,276.0,S,,2016-04-25 07:10:00
+2016-04-25 09:09:00+00:00,5.0,-165.0,45.0,695.0,C,,2016-04-25 09:09:00
+2016-04-27 02:37:00+00:00,31.0,118.0,10.0,379.0,S,CME measurements were taken using LASCO C3 imagery in swpc_cat.,2016-04-27 02:37:00
+2016-04-27 12:28:00+00:00,55.0,-102.0,24.0,485.0,S,"Although CME source location is at around lon=180 deg, the path of the CME is extremely to the NE (from Earth view) and the CME is not a halo but seems very much in the POS.
+CME parameters were derived from both C3 and STA using SWPC_cat, fitting both simultaneously did not work very well, no longitude could be found that would fit both, preference has been given to C3.",2016-04-27 12:28:00
+2016-04-28 15:01:00+00:00,3.0,-29.0,29.0,257.0,S,,2016-04-28 15:01:00
+2016-04-28 20:06:00+00:00,25.0,-26.0,18.0,347.0,S,,2016-04-28 20:06:00
+2016-04-28 17:15:00+00:00,3.0,-26.0,25.0,289.0,S,,2016-04-28 17:15:00
+2016-04-29 11:59:00+00:00,28.0,-143.0,29.0,362.0,S,,2016-04-29 11:59:00
+2016-04-30 14:31:00+00:00,39.0,-102.0,13.0,589.0,C,Measurement done in SWPC_cat using Stereo A images.,2016-04-30 14:31:00
+2016-05-01 04:08:00+00:00,37.0,-120.0,15.0,338.0,S,These measurements were taken using LASCO C3 imagery.,2016-05-01 04:08:00
+2016-05-01 12:19:00+00:00,37.0,-120.0,22.0,596.0,C,,2016-05-01 12:19:00
+2016-05-02 18:15:00+00:00,3.0,-37.0,36.0,386.0,S,,2016-05-02 18:15:00
+2016-05-04 05:16:00+00:00,-16.0,53.0,14.0,280.0,S,These are preliminary measurements taken using C2 images in swpc_cat.,2016-05-04 05:16:00
+2016-05-04 22:52:00+00:00,4.0,59.0,27.0,412.0,S,CME measurement done using SWPC_cat using both SOHO and Stereo A imagery.,2016-05-04 22:52:00
+2016-05-08 09:35:00+00:00,11.0,90.0,15.0,222.0,S,These measurements were taken using only LASCO C2 images in swpc_cat due to limited C3 images.,2016-05-08 09:35:00
+2016-05-08 00:56:00+00:00,-18.0,95.0,18.0,194.0,S,,2016-05-08 00:56:00
+2016-05-08 02:25:00+00:00,33.0,-2.0,16.0,342.0,S,,2016-05-08 02:25:00
+2016-05-10 09:57:00+00:00,49.0,31.0,35.0,414.0,S,,2016-05-10 09:57:00
+2016-05-11 06:47:00+00:00,-31.0,-114.0,25.0,214.0,S,,2016-05-11 06:47:00
+2016-05-11 02:17:00+00:00,15.0,-85.0,12.0,674.0,C,,2016-05-11 02:17:00
+2016-05-11 08:10:00+00:00,22.0,44.0,20.0,700.0,C,CME is very faint and measurement is done with only STA images with SWPC_cat.,2016-05-11 08:10:00
+2016-05-11 16:06:00+00:00,38.0,93.0,11.0,688.0,C,Measurement was done using SWPC CAT using both SOHO C3 and Stereo A cor2a imagery.,2016-05-11 16:06:00
+2016-05-11 20:45:00+00:00,3.0,-50.0,12.0,390.0,S,"narrow CME to the east, close to limb, measuements from both C3 and STA using STEREO_cat, POS with lon=-50 (lon of source region on disk)",2016-05-11 20:45:00
+2016-05-13 09:11:00+00:00,-17.0,82.0,26.0,311.0,S,,2016-05-13 09:11:00
+2016-05-14 03:47:00+00:00,-9.0,87.0,12.0,281.0,S,Narrow CME measured using C3 in swpc_cat.  Unable to use C2 due to gap from 15:14-23:24.,2016-05-14 03:47:00
+2016-05-14 10:02:00+00:00,18.0,-46.0,11.0,309.0,S,Measured with C2 in swpc_cat.,2016-05-14 10:02:00
+2016-05-14 10:36:00+00:00,-13.0,-92.0,19.0,535.0,C,Measured with C3 and Cor2 imagery in swpc_cat.,2016-05-14 10:36:00
+2016-05-15 18:54:00+00:00,17.0,68.0,36.0,1198.0,O,,2016-05-15 18:54:00
+2016-05-16 15:13:00+00:00,8.0,83.0,30.0,418.0,S,,2016-05-16 15:13:00
+2016-05-17 09:24:00+00:00,26.0,88.0,17.0,366.0,S,"This was a very very faint CME, fades rapidly.",2016-05-17 09:24:00
+2016-05-19 23:08:00+00:00,-2.0,148.0,15.0,550.0,C,"CME is narrow and rather faint in LASCO, measurement based on SWPC_cat with STA (CME not yet visible in C3), STEREO_cat with longitude of source (lon=150) gives somewhat higher speeds (~650 km/s).",2016-05-19 23:08:00
+2016-05-26 23:43:00+00:00,-19.0,87.0,25.0,434.0,S,,2016-05-26 23:43:00
+2016-05-27 21:49:00+00:00,-33.0,91.0,10.0,271.0,S,,2016-05-27 21:49:00
+2016-05-28 09:50:00+00:00,-30.0,90.0,20.0,309.0,S,,2016-05-28 09:50:00
+2016-05-29 14:08:00+00:00,-20.0,90.0,20.0,280.0,S,,2016-05-29 14:08:00
+2016-05-29 22:53:00+00:00,19.0,-90.0,32.0,189.0,S,,2016-05-29 22:53:00
+2016-05-29 15:50:00+00:00,25.0,70.0,19.0,510.0,C,,2016-05-29 15:50:00
+2016-05-31 00:06:00+00:00,30.0,90.0,35.0,450.0,S,CME was very faint and can be seen only in COR2 at the time. LASCO data gap does not allow usage of the instrument.,2016-05-31 00:06:00
+2016-06-01 07:40:00+00:00,-25.0,100.0,17.0,103.0,S,Longitude uncertain,2016-06-01 07:40:00
+2016-05-31 23:42:00+00:00,-19.0,149.0,30.0,514.0,C,These measurements were taken using SOHO LASCO C3 and STEREO A coronagraph imagery.,2016-05-31 23:42:00
+2016-06-01 09:01:00+00:00,-8.0,156.0,22.0,295.0,S,,2016-06-01 09:01:00
+2016-06-01 18:06:00+00:00,-30.0,156.0,31.0,193.0,S,,2016-06-01 18:06:00
+2016-06-02 23:15:00+00:00,7.0,133.0,13.0,386.0,S,,2016-06-02 23:15:00
+2016-06-08 01:08:00+00:00,-15.0,-130.0,41.0,243.0,S,,2016-06-08 01:08:00
+2016-06-09 08:02:00+00:00,35.0,-165.0,41.0,531.0,C,,2016-06-09 08:02:00
+2016-06-11 13:17:00+00:00,-26.0,-122.0,22.0,271.0,S,"This measurement used swpc_cat STA Cor2 imagery.  Tried measuring with C3, but CME was partially blocked by the arm of the coronagraph, and speeds came out too high.",2016-06-11 13:17:00
+2016-06-13 09:48:00+00:00,25.0,-90.0,20.0,106.0,S,,2016-06-13 09:48:00
+2016-06-14 18:28:00+00:00,33.0,-95.0,18.0,370.0,S,,2016-06-14 18:28:00
+2016-06-14 19:51:00+00:00,16.0,-44.0,22.0,540.0,C,,2016-06-14 19:51:00
+2016-06-16 13:55:00+00:00,9.0,-50.0,27.0,309.0,S,,2016-06-16 13:55:00
+2016-06-16 12:05:00+00:00,82.0,-170.0,40.0,516.0,C,3D speed calculated using POS approximation only,2016-06-16 12:05:00
+2016-06-16 15:43:00+00:00,11.0,-166.0,42.0,484.0,S,,2016-06-16 15:43:00
+2016-06-17 20:59:00+00:00,27.0,158.0,20.0,235.0,S,SWPC CAT analysis,2016-06-17 20:59:00
+2016-06-20 05:18:00+00:00,-29.0,95.0,25.0,482.0,S,,2016-06-20 05:18:00
+2016-06-20 10:46:00+00:00,6.0,100.0,32.0,434.0,S,,2016-06-20 10:46:00
+2016-06-20 13:51:00+00:00,-20.0,95.0,28.0,450.0,S,,2016-06-20 13:51:00
+2016-06-20 23:05:00+00:00,37.0,-147.0,42.0,560.0,C,,2016-06-20 23:05:00
+2016-06-21 14:24:00+00:00,24.0,36.0,34.0,365.0,S,"This was a very difficult CME to fit, it may be two separate CMEs superposed.",2016-06-21 14:24:00
+2016-06-22 11:15:00+00:00,9.0,43.0,31.0,350.0,S,,2016-06-22 11:15:00
+2016-06-23 18:49:00+00:00,-25.0,93.0,15.0,294.0,S,source unknown. from the helmet streamer region.,2016-06-23 18:49:00
+2016-06-23 19:18:00+00:00,-11.0,-139.0,35.0,250.0,S,,2016-06-23 19:18:00
+2016-06-25 09:35:00+00:00,25.0,-95.0,45.0,550.0,C,,2016-06-25 09:35:00
+2016-06-28 17:19:00+00:00,10.0,99.0,17.0,677.0,C,"This CME had a difficult to define leading edge, so the location of the eruption was used to set the longitude of the CME.",2016-06-28 17:19:00
+2016-06-29 00:57:00+00:00,-20.0,161.0,17.0,426.0,S,SWPC CAT analysis based on faint imagery,2016-06-29 00:57:00
+2016-06-30 10:24:00+00:00,24.0,-96.0,14.0,289.0,S,,2016-06-30 10:24:00
+2016-06-30 06:50:00+00:00,10.0,166.0,18.0,540.0,C,,2016-06-30 06:50:00
+2016-06-30 08:03:00+00:00,10.0,172.0,20.0,643.0,C,,2016-06-30 08:03:00
+2016-06-30 23:03:00+00:00,0.0,-180.0,50.0,572.0,C,,2016-06-30 23:03:00
+2016-07-01 20:29:00+00:00,-29.0,180.0,28.0,158.0,S,Source location is unknown,2016-07-01 20:29:00
+2016-07-05 12:49:00+00:00,37.0,140.0,36.0,315.0,S,"This was a fairly faint CME, and an accurate latitude/longitude was difficult to fit in SWPC_Cat for both the SOHO and STEREO-A viewpoints.",2016-07-05 12:49:00
+2016-07-06 03:50:00+00:00,33.0,45.0,32.0,550.0,C,,2016-07-06 03:50:00
+2016-07-06 14:05:00+00:00,36.0,59.0,7.0,620.0,C,,2016-07-06 14:05:00
+2016-07-07 15:20:00+00:00,18.0,105.0,32.0,328.0,S,The start time might not be accurate due to the CME being very faint.,2016-07-07 15:20:00
+2016-07-10 09:11:00+00:00,22.0,-89.0,19.0,444.0,S,,2016-07-10 09:11:00
+2016-07-12 09:27:00+00:00,33.0,-65.0,20.0,479.0,S,,2016-07-12 09:27:00
+2016-07-14 02:04:00+00:00,-1.0,-50.0,13.0,550.0,C,"measurement from STA only, using STEREO_cat and longitude of source region (-50)",2016-07-14 02:04:00
+2016-07-15 20:11:00+00:00,-26.0,76.0,25.0,539.0,C,,2016-07-15 20:11:00
+2016-07-16 14:50:00+00:00,-33.0,59.0,15.0,415.0,S,,2016-07-16 14:50:00
+2016-07-17 18:18:00+00:00,-3.0,-10.0,35.0,386.0,S,,2016-07-17 18:18:00
+2016-07-17 19:14:00+00:00,-2.0,-22.0,29.0,584.0,C,This is a very difficult to measure CME - halo component + east limb bright material.  Difficult to tell whether it's one CME or two.,2016-07-17 19:14:00
+2016-07-21 10:35:00+00:00,-15.0,51.0,27.0,462.0,S,,2016-07-21 10:35:00
+2016-07-21 11:41:00+00:00,-12.0,51.0,28.0,450.0,S,,2016-07-21 11:41:00
+2016-07-21 08:48:00+00:00,23.0,-140.0,27.0,558.0,C,,2016-07-21 08:48:00
+2016-07-22 08:17:00+00:00,2.0,95.0,35.0,714.0,C,,2016-07-22 08:17:00
+2016-07-23 13:09:00+00:00,36.0,64.0,26.0,212.0,S,,2016-07-23 13:09:00
+2016-07-23 10:07:00+00:00,15.0,70.0,40.0,740.0,C,SWPC_CAT using C3 and COR2B,2016-07-23 10:07:00
+2016-07-25 08:39:00+00:00,-2.0,91.0,16.0,500.0,C,,2016-07-25 08:39:00
+2016-07-26 17:13:00+00:00,-12.0,92.0,19.0,383.0,S,,2016-07-26 17:13:00
+2016-07-29 08:50:00+00:00,7.0,10.0,45.0,350.0,S,"The CME is a very faint halo in all 3 coronagraphs (STA, C2/3). Longitude can be about +-10 (around the one used in the model), speed can vary from 200-400 km/s, 350 km/s was at the higher end of possible speeds.",2016-07-29 08:50:00
+2016-07-31 00:55:00+00:00,14.0,-168.0,33.0,525.0,C,,2016-07-31 00:55:00
+2016-08-01 05:51:00+00:00,-25.0,12.0,24.0,354.0,S,,2016-08-01 05:51:00
+2016-08-04 15:30:00+00:00,5.0,-66.0,25.0,254.0,S,Need to be remeasured.,2016-08-04 15:30:00
+2016-08-04 13:50:00+00:00,-4.0,-168.0,14.0,320.0,S,,2016-08-04 13:50:00
+2016-08-06 10:10:00+00:00,-2.0,95.0,10.0,550.0,C,Measurement was done using C3 imagery in SWPC_CAT.,2016-08-06 10:10:00
+2016-08-09 01:56:00+00:00,45.0,-64.0,14.0,247.0,S,The source location can be seen as an eruption in STA EUVI 195 at 10:35Z in West limb.,2016-08-09 01:56:00
+2016-08-09 01:52:00+00:00,0.0,93.0,22.0,710.0,C,,2016-08-09 01:52:00
+2016-08-10 06:29:00+00:00,29.0,128.0,26.0,141.0,S,Measurement done in SWPC_Cat using both C3 and STA.,2016-08-10 06:29:00
+2016-08-10 13:22:00+00:00,19.0,-70.0,22.0,445.0,S,,2016-08-10 13:22:00
+2016-08-12 03:12:00+00:00,0.0,104.0,24.0,364.0,S,CME measurement done using SOHO C3 and STA in SWPC_CAT.,2016-08-12 03:12:00
+2016-08-13 09:35:00+00:00,25.0,-70.0,25.0,158.0,S,Measurement done in SWPC_CAT using C3 imagery.  THE filament projected the CME to be more eastward so I made the measurements more to the east. Speed suggests slow.,2016-08-13 09:35:00
+2016-08-13 00:56:00+00:00,-4.0,161.0,16.0,505.0,C,Measurement done in SWPC_CAT using both C3 and STA imagery.,2016-08-13 00:56:00
+2016-08-14 04:23:00+00:00,54.0,-109.0,31.0,382.0,S,Measurement done in SWPC_CAT using C2 and C3 imagery.,2016-08-14 04:23:00
+2016-08-15 15:39:00+00:00,10.0,-75.0,19.0,231.0,S,,2016-08-15 15:39:00
+2016-08-15 22:11:00+00:00,16.0,-107.0,20.0,750.0,C,"CME visible both in C2/3 and STA, use STEREO_cat in POS mode, with lon estimated from source (~110 behind limb)",2016-08-15 22:11:00
+2016-08-28 21:17:00+00:00,9.0,-114.0,29.0,173.0,S,CME was very difficult to measure since the front is very faint.  Source appears to be an AR seen on the far side from STA EUVI on a -115 longitude.,2016-08-28 21:17:00
+2016-08-30 11:00:00+00:00,25.0,82.0,25.0,375.0,S,,2016-08-30 11:00:00
+2016-08-30 09:16:00+00:00,-7.0,-82.0,13.0,585.0,C,Fast but very narrow CME.,2016-08-30 09:16:00
+2016-08-30 23:05:00+00:00,9.0,-102.0,24.0,240.0,S,"Extremely ragged front, speed was difficult to measure",2016-08-30 23:05:00
+2016-09-01 03:13:00+00:00,-22.0,68.0,24.0,212.0,S,"Comes from a small flare (A class) that ignites a very faint filament eruption that can be seen at 2016-08-30T15:45Z in SDO AIA 171,193 and 304 in the SW quadrant in the vicinity of AR 2580. 
+
+
+CME is very large and slow moving. Can't be seen in the coronagraphs until the 8/31.",2016-09-01 03:13:00
+2016-09-02 19:15:00+00:00,35.0,-87.0,27.0,218.0,S,,2016-09-02 19:15:00
+2016-09-04 18:50:00+00:00,6.0,114.0,23.0,108.0,S,Measurement done in SWPC cat using SOHO C2 and C3 and Cor2A,2016-09-04 18:50:00
+2016-09-05 08:25:00+00:00,-14.0,26.0,32.0,216.0,S,,2016-09-05 08:25:00
+2016-09-06 13:11:00+00:00,22.0,160.0,10.0,539.0,C,Measured using C3 and STA.,2016-09-06 13:11:00
+2016-09-06 14:18:00+00:00,-20.0,120.0,31.0,674.0,C,,2016-09-06 14:18:00
+2016-09-07 08:54:00+00:00,-24.0,80.0,24.0,317.0,S,,2016-09-07 08:54:00
+2016-09-11 14:19:00+00:00,5.0,89.0,12.0,597.0,C,,2016-09-11 14:19:00
+2016-09-15 04:24:00+00:00,-18.0,-122.0,43.0,722.0,C,Measured with swpc_cat using C3 and STA Cor2 imagery.,2016-09-15 04:24:00
+2016-09-17 01:05:00+00:00,9.0,90.0,14.0,324.0,S,,2016-09-17 01:05:00
+2016-09-17 03:50:00+00:00,-1.0,-68.0,17.0,301.0,S,,2016-09-17 03:50:00
+2016-09-17 14:11:00+00:00,-15.0,-95.0,14.0,300.0,S,,2016-09-17 14:11:00
+2016-09-17 19:53:00+00:00,5.0,99.0,12.0,436.0,S,CME was measured in SWPC_CAT using both C2 and C3 imagery.,2016-09-17 19:53:00
+2016-09-18 16:30:00+00:00,-6.0,-110.0,34.0,148.0,S,,2016-09-18 16:30:00
+2016-09-18 14:35:00+00:00,13.0,-90.0,14.0,393.0,S,,2016-09-18 14:35:00
+2016-09-18 22:56:00+00:00,18.0,-83.0,10.0,221.0,S,Hard to see in C3 and there were not many good frames in swpc_cat.,2016-09-18 22:56:00
+2016-09-20 05:10:00+00:00,11.0,99.0,15.0,183.0,S,Measurement done using STA coronagraph imagery in SWPC_CAT,2016-09-20 05:10:00
+2016-09-22 20:00:00+00:00,9.0,-104.0,17.0,398.0,S,Measurement was done in SWPC CAT using C3 and Cor2A,2016-09-22 20:00:00
+2016-09-23 05:08:00+00:00,-21.0,-62.0,18.0,414.0,S,,2016-09-23 05:08:00
+2016-09-23 14:08:00+00:00,16.0,122.0,17.0,268.0,S,,2016-09-23 14:08:00
+2016-09-25 18:02:00+00:00,23.0,93.0,25.0,469.0,S,,2016-09-25 18:02:00
+2016-09-27 09:30:00+00:00,-23.0,15.0,33.0,307.0,S,,2016-09-27 09:30:00
+2016-09-27 18:22:00+00:00,25.0,80.0,17.0,348.0,S,Difficult to measure because leading edge was not entirely clear,2016-09-27 18:22:00
+2016-09-28 19:40:00+00:00,-64.0,70.0,38.0,270.0,S,Measured using only C2 with a larger half angle than the previous measurement.,2016-09-28 19:40:00
+2016-09-30 06:44:00+00:00,-14.0,80.0,26.0,380.0,S,Able to observe field line lifting off in S14W80 of SDO 171 & 193 around 17:00Z.,2016-09-30 06:44:00
+2016-10-01 09:03:00+00:00,7.0,-65.0,23.0,535.0,C,,2016-10-01 09:03:00
+2016-10-01 21:43:00+00:00,18.0,-73.0,23.0,524.0,C,,2016-10-01 21:43:00
+2016-10-02 02:00:00+00:00,17.0,100.0,32.0,294.0,S,,2016-10-02 02:00:00
+2016-10-04 20:51:00+00:00,-20.0,87.0,20.0,263.0,S,,2016-10-04 20:51:00
+2016-10-05 16:33:00+00:00,0.0,93.0,12.0,517.0,C,Source was a filament eruption off the western limb around 07:00.,2016-10-05 16:33:00
+2016-10-08 07:19:00+00:00,37.0,-92.0,22.0,170.0,S,,2016-10-08 07:19:00
+2016-10-09 15:56:00+00:00,10.0,-22.0,37.0,243.0,S,"This was measured using only STA images, as it was difficult to determine a clear leading edge in the C3 images on swpc_cat.",2016-10-09 15:56:00
+2016-10-10 14:34:00+00:00,-21.0,-175.0,45.0,450.0,S,,2016-10-10 14:34:00
+2016-10-11 14:13:00+00:00,-17.0,-153.0,35.0,320.0,S,SWPC CAT analysis,2016-10-11 14:13:00
+2016-10-12 12:34:00+00:00,-17.0,41.0,15.0,181.0,S,,2016-10-12 12:34:00
+2016-10-13 16:23:00+00:00,25.0,-48.0,10.0,339.0,S,"Narrow CME, measured with C2 and Cor2 in swpc_cat.",2016-10-13 16:23:00
+2016-10-14 19:55:00+00:00,-21.0,-109.0,23.0,386.0,S,,2016-10-14 19:55:00
+2016-10-14 22:53:00+00:00,-24.0,-93.0,25.0,621.0,C,,2016-10-14 22:53:00
+2016-10-17 18:01:00+00:00,21.0,92.0,15.0,275.0,S,This measurement was done using SWPC_Cat STA images.  The CME can not be seen very well in the C3 imagery.,2016-10-17 18:01:00
+2016-10-18 10:36:00+00:00,20.0,0.0,27.0,293.0,S,,2016-10-18 10:36:00
+2016-10-21 00:50:00+00:00,34.0,65.0,11.0,386.0,S,Measurements taken in C2 and still barely visible. CME is very difficult to see in both C2 and C3.,2016-10-21 00:50:00
+2016-10-23 04:01:00+00:00,8.0,80.0,12.0,317.0,S,Measurement done using C2 and C3 imagery. It could not be seen in STA.  The CME starts out very fast in C2 and seems to slow down as it propagates out into C3.,2016-10-23 04:01:00
+2016-10-24 06:03:00+00:00,23.0,88.0,21.0,202.0,S,,2016-10-24 06:03:00
+2016-10-24 09:38:00+00:00,-20.0,-95.0,23.0,264.0,S,,2016-10-24 09:38:00
+2016-10-24 08:55:00+00:00,33.0,116.0,19.0,462.0,S,"Measurement done in SWPC_CAT using C2, C3 and STA imagery.",2016-10-24 08:55:00
+2016-10-25 10:42:00+00:00,23.0,90.0,24.0,280.0,S,"Only measured based on C2, likely accelerating. Hard to detect in C3 due to the occulter.",2016-10-25 10:42:00
+2016-10-25 06:27:00+00:00,-28.0,90.0,28.0,400.0,S,The above measurements were based only on C3.,2016-10-25 06:27:00
+2016-10-26 01:10:00+00:00,10.0,-145.0,42.0,560.0,C,,2016-10-26 01:10:00
+2016-10-27 02:09:00+00:00,25.0,-92.0,24.0,353.0,S,,2016-10-27 02:09:00
+2016-10-26 21:07:00+00:00,-20.0,-92.0,14.0,302.0,S,Only visible in STA Cor2.,2016-10-26 21:07:00
+2016-10-27 02:30:00+00:00,19.0,114.0,17.0,246.0,S,Measured with C2 and Cor2 in swpc_cat as in C3 the CME is blocked by the arm.,2016-10-27 02:30:00
+2016-10-29 22:19:00+00:00,16.0,92.0,12.0,302.0,S,,2016-10-29 22:19:00
+2016-10-30 06:53:00+00:00,28.0,92.0,22.0,493.0,S,,2016-10-30 06:53:00
+2016-10-31 04:30:00+00:00,-18.0,-66.0,30.0,187.0,S,,2016-10-31 04:30:00
+2016-10-31 06:02:00+00:00,-37.0,-4.0,30.0,183.0,S,,2016-10-31 06:02:00
+2016-10-31 10:16:00+00:00,14.0,133.0,27.0,336.0,S,,2016-10-31 10:16:00
+2016-11-02 06:47:00+00:00,-18.0,126.0,17.0,220.0,S,"Measured using C2 and STA as no C3 images were available. In C2, measurement was fit to the southern component of the CME.",2016-11-02 06:47:00
+2016-11-04 18:47:00+00:00,0.0,36.0,18.0,360.0,S,,2016-11-04 18:47:00
+2016-11-05 06:05:00+00:00,3.0,124.0,10.0,463.0,S,,2016-11-05 06:05:00
+2016-11-05 12:17:00+00:00,23.0,26.0,35.0,487.0,S,Measurement was done using approx. 15 fits in both SOHO C3 and in STA in SWPC_CAT,2016-11-05 12:17:00
+2016-11-09 08:19:00+00:00,-1.0,-100.0,10.0,282.0,S,,2016-11-09 08:19:00
+2016-11-09 06:18:00+00:00,23.0,-49.0,27.0,724.0,C,,2016-11-09 06:18:00
+2016-11-09 11:44:00+00:00,-27.0,-93.0,10.0,463.0,S,Measured using STA images due to lack of visibility in C2 and C3.,2016-11-09 11:44:00
+2016-11-09 09:19:00+00:00,-11.0,170.0,16.0,431.0,S,"Since longitude is 170 we'd expect to see a halo CME in SOHO, but nothing is visible (we assume halo is too faint to see), so measurement was done using only STA.",2016-11-09 09:19:00
+2016-11-10 14:16:00+00:00,7.0,146.0,19.0,176.0,S,Measured with C3 and Cor2 imagery in swpc_cat.,2016-11-10 14:16:00
+2016-11-10 21:31:00+00:00,-16.0,-93.0,15.0,456.0,S,,2016-11-10 21:31:00
+2016-11-11 08:54:00+00:00,1.0,112.0,31.0,350.0,S,"fit with SWPC_cat using both C3 and COR2, source location in blind spot (therefore lon somewhere between 95 and 120), both 110 and 120 work for fit.",2016-11-11 08:54:00
+2016-11-16 06:07:00+00:00,15.0,168.0,32.0,135.0,S,,2016-11-16 06:07:00
+2016-11-17 11:21:00+00:00,20.0,99.0,16.0,463.0,S,,2016-11-17 11:21:00
+2016-11-19 02:50:00+00:00,-2.0,-94.0,22.0,407.0,S,,2016-11-19 02:50:00
+2016-11-19 13:09:00+00:00,-5.0,-126.0,21.0,491.0,S,,2016-11-19 13:09:00
+2016-11-19 16:58:00+00:00,1.0,-127.0,19.0,585.0,C,,2016-11-19 16:58:00
+2016-11-26 07:55:00+00:00,-3.0,-122.0,19.0,262.0,S,,2016-11-26 07:55:00
+2016-11-27 05:04:00+00:00,5.0,124.0,19.0,400.0,S,,2016-11-27 05:04:00
+2016-11-28 15:37:00+00:00,-20.0,97.0,15.0,270.0,S,,2016-11-28 15:37:00
+2016-12-03 12:22:00+00:00,-20.0,49.0,18.0,328.0,S,,2016-12-03 12:22:00
+2016-12-04 21:09:00+00:00,21.0,71.0,13.0,519.0,C,,2016-12-04 21:09:00
+2016-12-05 10:51:00+00:00,13.0,-124.0,11.0,386.0,S,,2016-12-05 10:51:00
+2016-12-06 15:47:00+00:00,-10.0,-99.0,25.0,168.0,S,This measurement was done in swpc_cat using C2 and C3.,2016-12-06 15:47:00
+2016-12-07 21:06:00+00:00,20.0,-73.0,23.0,483.0,S,,2016-12-07 21:06:00
+2016-12-09 05:40:00+00:00,31.0,1.0,48.0,271.0,S,,2016-12-09 05:40:00
+2016-12-09 14:18:00+00:00,5.0,-166.0,11.0,313.0,S,,2016-12-09 14:18:00
+2016-12-11 08:54:00+00:00,9.0,89.0,24.0,237.0,S,,2016-12-11 08:54:00
+2016-12-12 20:42:00+00:00,-6.0,100.0,30.0,206.0,S,Measured using a more off-limb longitude.,2016-12-12 20:42:00
+2016-12-12 13:09:00+00:00,23.0,135.0,27.0,599.0,C,These are preliminary measurements using limited C3 imagery. It should be remeasured when more images come in for C3.,2016-12-12 13:09:00
+2016-12-15 14:25:00+00:00,3.0,-90.0,14.0,506.0,C,Narrow and not worth modeling.,2016-12-15 14:25:00
+2016-12-16 04:08:00+00:00,10.0,31.0,26.0,493.0,S,,2016-12-16 04:08:00
+2016-12-17 06:46:00+00:00,34.0,-100.0,24.0,449.0,S,,2016-12-17 06:46:00
+2016-12-17 09:44:00+00:00,8.0,-126.0,52.0,347.0,S,,2016-12-17 09:44:00
+2016-12-18 03:01:00+00:00,1.0,-97.0,20.0,241.0,S,Measurement was done using SWPC_CAT using C3 and STA imagery,2016-12-18 03:01:00
+2016-12-22 17:44:00+00:00,3.0,-80.0,24.0,207.0,S,Measured with swpc_cat usind STA Cor2 and SOHO C3.,2016-12-22 17:44:00
+2016-12-27 12:51:00+00:00,-18.0,104.0,15.0,387.0,S,CME is very faint and difficult to measure. This measurement was done using only STA COR2.,2016-12-27 12:51:00
+2016-12-30 10:09:00+00:00,-27.0,126.0,20.0,479.0,S,,2016-12-30 10:09:00
+2016-12-31 07:29:00+00:00,34.0,-104.0,15.0,558.0,C,,2016-12-31 07:29:00
+2017-01-03 13:08:00+00:00,-10.0,-105.0,20.0,645.0,C,Measured using SOHO LASCO C3 imagery.,2017-01-03 13:08:00
+2017-01-09 00:21:00+00:00,-33.0,-93.0,26.0,88.0,S,These are preliminary measurements using STA imagery only. The CME was too faint to be seen in C2 or C3.,2017-01-09 00:21:00
+2017-01-11 07:02:00+00:00,3.0,100.0,22.0,167.0,S,These are preliminary measurements done using STA images only in swpc_cat.,2017-01-11 07:02:00
+2017-01-12 22:42:00+00:00,1.0,-90.0,36.0,580.0,C,,2017-01-12 22:42:00
+2017-01-14 09:24:00+00:00,10.0,-155.0,10.0,628.0,C,,2017-01-14 09:24:00
+2017-01-14 20:06:00+00:00,11.0,90.0,15.0,365.0,S,,2017-01-14 20:06:00
+2017-01-15 15:43:00+00:00,0.0,-48.0,14.0,353.0,S,,2017-01-15 15:43:00
+2017-01-18 00:56:00+00:00,11.0,160.0,11.0,723.0,C,,2017-01-18 00:56:00
+2017-01-19 21:10:00+00:00,16.0,-80.0,21.0,429.0,S,,2017-01-19 21:10:00
+2017-01-20 17:59:00+00:00,21.0,105.0,26.0,276.0,S,Measurement is done using only STA COR2 as the CME is not visible in SOHO.,2017-01-20 17:59:00
+2017-01-21 11:35:00+00:00,16.0,129.0,31.0,531.0,C,,2017-01-21 11:35:00
+2017-01-24 20:33:00+00:00,10.0,100.0,22.0,539.0,C,"Measured using C3 frames of time ~18:12-20:24.
+Measuring with only the later of the C3 frames produced a slightly faster speed around 700.",2017-01-24 20:33:00
+2017-01-27 21:02:00+00:00,10.0,-111.0,22.0,199.0,S,Measurement was done primarily with C2 and had a limited number of frames due to the CME's faintness.,2017-01-27 21:02:00
+2017-01-28 21:03:00+00:00,-7.0,-99.0,13.0,450.0,S,Measurement assumes a source near the limb.,2017-01-28 21:03:00
+2017-01-29 21:28:00+00:00,-2.0,98.0,27.0,205.0,S,,2017-01-29 21:28:00
+2017-02-02 02:43:00+00:00,29.0,33.0,34.0,358.0,S,"CME in the NW of SOHO and STA, with some initial faint outflow followed by the main CME structure. Difficult to match SOHO imagery with STA since the CME is in the NW in both.",2017-02-02 02:43:00
+2017-02-09 01:07:00+00:00,-15.0,162.0,27.0,95.0,S,Source location unclear.  This was measured using C2 and Cor2.,2017-02-09 01:07:00
+2017-02-08 15:46:00+00:00,-30.0,178.0,30.0,311.0,S,"The CME is very faint, but was measured using C2 and Cor2.",2017-02-08 15:46:00
+2017-02-09 03:31:00+00:00,27.0,93.0,10.0,313.0,S,,2017-02-09 03:31:00
+2017-02-10 19:28:00+00:00,18.0,148.0,10.0,594.0,C,Measurement done only using C2 as CME is not visible in any other coronagraphs,2017-02-10 19:28:00
+2017-02-11 17:29:00+00:00,-1.0,93.0,18.0,456.0,S,,2017-02-11 17:29:00
+2017-02-15 09:54:00+00:00,16.0,-173.0,12.0,405.0,S,Very faint and can only be seen in Cor2.,2017-02-15 09:54:00
+2017-02-18 13:54:00+00:00,26.0,-110.0,17.0,239.0,S,,2017-02-18 13:54:00
+2017-02-18 16:30:00+00:00,4.0,88.0,27.0,492.0,S,,2017-02-18 16:30:00
+2017-02-19 19:02:00+00:00,11.0,12.0,42.0,450.0,S,The halo is extremely faint and therefore difficult to measure accurately.,2017-02-19 19:02:00
+2017-02-21 15:21:00+00:00,29.0,-90.0,11.0,155.0,S,,2017-02-21 15:21:00
+2017-02-23 16:41:00+00:00,29.0,-44.0,20.0,675.0,C,,2017-02-23 16:41:00
+2017-02-24 03:52:00+00:00,31.0,-43.0,18.0,530.0,C,,2017-02-24 03:52:00
+2017-02-25 10:13:00+00:00,1.0,116.0,20.0,379.0,S,,2017-02-25 10:13:00
+2017-02-26 19:51:00+00:00,1.0,-75.0,27.0,407.0,S,,2017-02-26 19:51:00
+2017-02-28 09:35:00+00:00,-12.0,56.0,32.0,206.0,S,These measurements were made using C2 in swpc_cat only. The CME is not visible in LASCO C3 in swpc_cat.,2017-02-28 09:35:00
+2017-03-01 09:04:00+00:00,8.0,89.0,17.0,256.0,S,Measured with C3 and Cor2.  There are not many frames where the CME is clear.,2017-03-01 09:04:00
+2017-03-02 02:08:00+00:00,-20.0,85.0,22.0,98.0,S,Used C3 and Cor2 to measure but the CME is very faint and hard to measure.,2017-03-02 02:08:00
+2017-03-04 15:01:00+00:00,27.0,51.0,13.0,234.0,S,Measured using C2 imagery,2017-03-04 15:01:00
+2017-03-06 08:05:00+00:00,-11.0,-90.0,26.0,182.0,S,,2017-03-06 08:05:00
+2017-03-11 12:55:00+00:00,13.0,105.0,16.0,338.0,S,Measurement conducted assuming a source near the eastern limb in STA EUVI.,2017-03-11 12:55:00
+2017-03-12 05:10:00+00:00,-2.0,-80.0,35.0,379.0,S,"Remeasured with more frames in C3, but a large gap remained in STA. A second small puff came from the same region as the original CME around 5 hours after the start, but it became embedded in the larger CME and so was not measured independently.",2017-03-12 05:10:00
+2017-03-14 05:21:00+00:00,15.0,127.0,36.0,378.0,S,,2017-03-14 05:21:00
+2017-03-14 17:47:00+00:00,14.0,127.0,17.0,260.0,S,Measured using STA Cor2 (only faintly seen in C2 and C3),2017-03-14 17:47:00
+2017-03-14 21:04:00+00:00,12.0,125.0,19.0,293.0,S,Measured using STA Cor2 (only faintly seen in C2 and C3),2017-03-14 21:04:00
+2017-03-20 03:59:00+00:00,-24.0,-10.0,23.0,280.0,S,Halo in LASCO images was extremely faint.,2017-03-20 03:59:00
+2017-03-22 16:33:00+00:00,16.0,-88.0,26.0,179.0,S,Measured using C3 only.,2017-03-22 16:33:00
+2017-03-23 08:08:00+00:00,14.0,-58.0,14.0,295.0,S,"Measured with swpc_cat using C2 imagery. Difficult to measure. Starts very narrow followed by a wider component, and then fades before leaving C2's frame.",2017-03-23 08:08:00
+2017-03-25 05:38:00+00:00,-9.0,-96.0,19.0,308.0,S,Measured using C2/C3,2017-03-25 05:38:00
+2017-03-27 22:40:00+00:00,-3.0,-61.0,16.0,337.0,S,These measurements were taken using C3 in swpc_cat. The CME fades out quickly in the difference imaging in C3 and STA cor2.,2017-03-27 22:40:00
+2017-03-28 05:31:00+00:00,1.0,-68.0,18.0,328.0,S,These measurements were taken using STA cor2 and C3 in swpc_cat.,2017-03-28 05:31:00
+2017-03-29 07:03:00+00:00,-11.0,78.0,26.0,259.0,S,Measured using C2 and STA Cor2.,2017-03-29 07:03:00
+2017-04-02 03:14:00+00:00,20.0,54.0,21.0,609.0,C,Lat/Lon taken from a measurement only using STA Cor2 frames because it appeared as a partial halo in STA and was trouble to fit to both with the half width staying realistic. Other parameters from a fit to both in which the half-width for STA was cut smaller to get a realistic fit on C3.,2017-04-02 03:14:00
+2017-04-02 17:54:00+00:00,15.0,65.0,17.0,438.0,S,,2017-04-02 17:54:00
+2017-04-03 01:59:00+00:00,9.0,63.0,30.0,538.0,C,,2017-04-03 01:59:00
+2017-04-03 04:34:00+00:00,13.0,61.0,19.0,298.0,S,,2017-04-03 04:34:00
+2017-04-03 21:38:00+00:00,18.0,75.0,12.0,516.0,C,"These are the same measurements as the initial measurement, with the half width adjusted for accuracy.",2017-04-03 21:38:00
+2017-04-04 18:29:00+00:00,22.0,90.0,10.0,386.0,S,Only measured using STA Cor2 because the chronograph stick blocks the CME in C3.,2017-04-04 18:29:00
+2017-04-04 16:59:00+00:00,15.0,95.0,34.0,449.0,S,CME was faint in the Cor2 difference images and could not be seen clearly so it was measured with only C3.,2017-04-04 16:59:00
+2017-04-05 09:57:00+00:00,26.0,99.0,13.0,125.0,S,Used only C3 because CME was not clearly defined in Cor2.,2017-04-05 09:57:00
+2017-04-05 07:21:00+00:00,22.0,95.0,27.0,258.0,S,Measured using C2 and STA Cor2 because the CME wasn't clearly defined in C3.,2017-04-05 07:21:00
+2017-04-06 10:41:00+00:00,28.0,100.0,13.0,90.0,S,Measured using C2 because could not see well in C3 or Cor2.  Measurement may be too slow.,2017-04-06 10:41:00
+2017-04-05 14:06:00+00:00,-15.0,-31.0,19.0,384.0,S,"Measurement taken with C2 and C3 frames. Fit is still imperfect, likely due to unknown source.",2017-04-05 14:06:00
+2017-04-06 14:07:00+00:00,-55.0,-140.0,45.0,135.0,S,"This is a very unreliable analysis since this is a faint CME and might actually be a series of two CMEs. Source location, even though it is very visible, is very wide as the source is a liftoff of a very long filament, stretching along latitude. Longitude especially is very unclear.",2017-04-06 14:07:00
+2017-04-07 02:47:00+00:00,15.0,128.0,25.0,311.0,S,Measured using C2 and STA Cor2 (not visible in C3).,2017-04-07 02:47:00
+2017-04-10 23:00:00+00:00,10.0,109.0,21.0,127.0,S,Measured with C2 in swpc_cat. Too faint in C3 and STA.,2017-04-10 23:00:00
+2017-04-10 13:42:00+00:00,-11.0,-37.0,21.0,278.0,S,,2017-04-10 13:42:00
+2017-04-10 19:47:00+00:00,14.0,-173.0,24.0,433.0,S,,2017-04-10 19:47:00
+2017-04-11 01:33:00+00:00,11.0,-168.0,22.0,445.0,S,This is a poor measurement due to the STA Cor2 data gap 04-10T19:24-22:24.  The CME can only be seen in Cor2 and there are only 2 frames before the gap and one after where the CME is visible.,2017-04-11 01:33:00
+2017-04-11 06:06:00+00:00,14.0,-169.0,45.0,483.0,S,Measured using Cor2.,2017-04-11 06:06:00
+2017-04-11 07:37:00+00:00,42.0,-64.0,41.0,440.0,S,Measured using C3.,2017-04-11 07:37:00
+2017-04-11 16:26:00+00:00,23.0,146.0,11.0,693.0,C,,2017-04-11 16:26:00
+2017-04-12 17:42:00+00:00,6.0,-149.0,35.0,661.0,C,,2017-04-12 17:42:00
+2017-04-14 02:38:00+00:00,4.0,136.0,22.0,412.0,S,,2017-04-14 02:38:00
+2017-04-15 11:18:00+00:00,16.0,-3.0,15.0,302.0,S,,2017-04-15 11:18:00
+2017-04-16 10:19:00+00:00,-4.0,-100.0,10.0,493.0,S,,2017-04-16 10:19:00
+2017-04-18 16:23:00+00:00,-3.0,-78.0,16.0,512.0,C,"Measured using C3 and STA Cor2.
+
+Possible glancing blow at Spitzer for 04-21T12:00Z, but the CME may have dissipated before then.",2017-04-18 16:23:00
+2017-04-18 23:42:00+00:00,21.0,-76.0,50.0,934.0,C,Measured using only C3 due to STA data gap from 19:39-22:09.,2017-04-18 23:42:00
+2017-04-21 01:24:00+00:00,0.0,-87.0,27.0,454.0,S,Measured using only C2 frames.,2017-04-21 01:24:00
+2017-04-21 02:47:00+00:00,34.0,-10.0,34.0,719.0,C,,2017-04-21 02:47:00
+2017-04-21 07:26:00+00:00,16.0,78.0,16.0,364.0,S,,2017-04-21 07:26:00
+2017-04-23 09:33:00+00:00,-3.0,-66.0,23.0,911.0,C,,2017-04-23 09:33:00
+2017-04-24 15:02:00+00:00,43.0,-45.0,51.0,358.0,S,"Difficult to measure, with a streamer-like portion preceding the more defined CME structure. Measured with swpc_cat using C2 and Cor2.",2017-04-24 15:02:00
+2017-04-29 06:32:00+00:00,30.0,88.0,15.0,322.0,S,,2017-04-29 06:32:00
+2017-04-29 08:23:00+00:00,2.0,-97.0,17.0,580.0,C,,2017-04-29 08:23:00
+2017-04-30 10:33:00+00:00,-10.0,31.0,16.0,498.0,S,,2017-04-30 10:33:00
+2017-05-02 18:58:00+00:00,8.0,-102.0,20.0,418.0,S,Measured using only C3 because the leading edge wasn't well defined in Cor2.,2017-05-02 18:58:00
+2017-05-05 16:11:00+00:00,12.0,-45.0,26.0,172.0,S,Measured in swpc_cat using only STA COR2,2017-05-05 16:11:00
+2017-05-06 10:44:00+00:00,-6.0,-92.0,15.0,347.0,S,,2017-05-06 10:44:00
+2017-05-14 07:02:00+00:00,-23.0,4.0,25.0,340.0,S,These measurement were taken using STEREO_CAT with the half width adjusted.,2017-05-14 07:02:00
+2017-05-21 07:59:00+00:00,-12.0,-90.0,13.0,565.0,C,Measured using C3 and Cor2.,2017-05-21 07:59:00
+2017-05-23 15:27:00+00:00,-7.0,12.0,26.0,375.0,S,Measured in SWPC_CAT using only STA COR2,2017-05-23 15:27:00
+2017-05-24 08:59:00+00:00,-25.0,21.0,14.0,433.0,S,"Updated measurement, using eruption 2017-05-23T14:19Z eruption from S10W25 as source.",2017-05-24 08:59:00
+2017-05-26 02:40:00+00:00,30.0,114.0,30.0,334.0,S,,2017-05-26 02:40:00
+2017-05-29 23:59:00+00:00,-12.0,-102.0,26.0,313.0,S,,2017-05-29 23:59:00
+2017-05-30 23:52:00+00:00,-2.0,-53.0,15.0,421.0,S,Data gap in C2 and C3 so measurement had to be made with Cor2 only.,2017-05-30 23:52:00
+2017-05-31 22:10:00+00:00,-9.0,104.0,22.0,303.0,S,,2017-05-31 22:10:00
+2017-06-01 22:49:00+00:00,-7.0,-92.0,23.0,339.0,S,,2017-06-01 22:49:00
+2017-06-03 20:03:00+00:00,-22.0,-100.0,15.0,289.0,S,,2017-06-03 20:03:00
+2017-06-03 12:18:00+00:00,8.0,55.0,10.0,627.0,C,"CME is hard to measure because it is faint and does not show up in Cor2 or the difference images of C3.
+CME is also very narrow.",2017-06-03 12:18:00
+2017-06-05 05:23:00+00:00,-14.0,-56.0,23.0,268.0,S,Used C3 and Cor2 with swpc_cat. Difficult to measure due to indistinct leading edge.,2017-06-05 05:23:00
+2017-06-08 08:20:00+00:00,-3.0,-26.0,26.0,268.0,S,CME measurements are very rough. CME front is almost not visible in any coronagraph images. The measurement done is an average of two measurements done using STA with SWPC_Cat.,2017-06-08 08:20:00
+2017-06-11 12:51:00+00:00,-9.0,-112.0,25.0,362.0,S,Measured using C3 and Cor2.,2017-06-11 12:51:00
+2017-06-11 10:41:00+00:00,9.0,37.0,22.0,419.0,S,Measured using C3 only.,2017-06-11 10:41:00
+2017-06-12 23:27:00+00:00,-2.0,87.0,25.0,279.0,S,,2017-06-12 23:27:00
+2017-06-13 04:10:00+00:00,-5.0,95.0,24.0,330.0,S,The CME was originally very slow. The given speed was measured using LASCO C3.,2017-06-13 04:10:00
+2017-06-14 12:54:00+00:00,-9.0,87.0,13.0,289.0,S,,2017-06-14 12:54:00
+2017-06-15 11:46:00+00:00,3.0,107.0,19.0,400.0,S,"This CME was part of a chain of CMEs, fronts merging together.  It eventually faded in the C3 FOV and wasn't particularly clear.",2017-06-15 11:46:00
+2017-06-15 18:11:00+00:00,-6.0,109.0,25.0,405.0,S,"This was part of a chain of CMEs starting late on 2017-06-13, fronts eventually merging and tough to distinguish.",2017-06-15 18:11:00
+2017-06-17 17:36:00+00:00,-22.0,96.0,14.0,354.0,S,,2017-06-17 17:36:00
+2017-06-17 18:53:00+00:00,0.0,-134.0,18.0,351.0,S,Measured using C2 imagery due to low visibility in C3.,2017-06-17 18:53:00
+2017-06-20 14:36:00+00:00,16.0,-84.0,33.0,530.0,C,Preliminary measurement using STEREO A COR2 in swpc_cat.,2017-06-20 14:36:00
+2017-06-29 01:04:00+00:00,-2.0,-80.0,26.0,360.0,S,"Use SWPC_cat with only STA images, CME not visible in C3, longitude to match CME source region.",2017-06-29 01:04:00
+2017-06-29 02:08:00+00:00,37.0,17.0,39.0,400.0,S,"CME not visible in STA, very faint in C3, only 3 difference images useful for SWPC_cat (CME is too far out of the POS for STEREO_cat).",2017-06-29 02:08:00
+2017-06-30 02:02:00+00:00,-4.0,-101.0,13.0,430.0,S,The CME is very faint and is difficult to measure. This was measured in STEREO_CAT using STEREO A and getting the plane of sky speed.,2017-06-30 02:02:00
+2017-07-02 21:17:00+00:00,8.0,82.0,13.0,462.0,S,Measured using LASCO C3 and a few STA cor2 images in swpc_cat.,2017-07-02 21:17:00
+2017-07-04 22:31:00+00:00,0.0,95.0,16.0,191.0,S,StereoCAT analysis with longitude rather arbitrarily assumed to be 95.,2017-07-04 22:31:00
+2017-07-04 13:11:00+00:00,11.0,-105.0,12.0,900.0,C,"SWPC CAT measurement utilizing C2 and C3 difference imagery. STEREO CAT measurement gives lower speed, but the CME front is very unclear in C2 and C3 imagery.",2017-07-04 13:11:00
+2017-07-06 22:14:00+00:00,1.0,126.0,20.0,240.0,S,,2017-07-06 22:14:00
+2017-07-12 08:56:00+00:00,35.0,-15.0,20.0,267.0,S,"This was a very faint CME, tough go measure.",2017-07-12 08:56:00
+2017-07-12 02:38:00+00:00,-1.0,-41.0,15.0,588.0,C,,2017-07-12 02:38:00
+2017-07-12 19:00:00+00:00,33.0,-27.0,24.0,246.0,S,This CME overlapped quite a bit with the 2017-07-11T07:24Z CME.  It could be just two stages of the same event.,2017-07-12 19:00:00
+2017-07-13 03:27:00+00:00,9.0,30.0,30.0,377.0,S,Faint halo in STA which helped  determine the kinematics of the CME.,2017-07-13 03:27:00
+2017-07-14 02:39:00+00:00,-3.0,40.0,22.0,573.0,C,,2017-07-14 02:39:00
+2017-07-14 05:29:00+00:00,-9.0,40.0,49.0,750.0,C,"This CME was highly asymmetric.  The CME front was measured using LASCO, where it was more visible, but the symmetry/longitude was set by the halo in STEREO-A.",2017-07-14 05:29:00
+2017-07-15 15:57:00+00:00,9.0,65.0,10.0,734.0,C,This CME is very narrow and faint. It was measured using C3 images in swpc_cat.,2017-07-15 15:57:00
+2017-07-16 04:28:00+00:00,9.0,59.0,39.0,589.0,C,"Measured using C3 only, as STA images did not have a clear leading edge.",2017-07-16 04:28:00
+2017-07-18 04:06:00+00:00,4.0,80.0,32.0,356.0,S,These are preliminary measurements taken using C3 imagery in swpc_cat.,2017-07-18 04:06:00
+2017-07-20 18:13:00+00:00,3.0,-48.0,16.0,373.0,S,,2017-07-20 18:13:00
+2017-07-21 02:00:00+00:00,1.0,120.0,30.0,320.0,S,,2017-07-21 02:00:00
+2017-07-20 23:00:00+00:00,2.0,121.0,28.0,620.0,C,,2017-07-20 23:00:00
+2017-07-23 05:21:00+00:00,13.0,154.0,33.0,944.0,C,Measured using mostly C3 frames.  STA  Cor2 frames also used.,2017-07-23 05:21:00
+2017-07-23 06:26:00+00:00,-4.0,170.0,46.0,2271.0,R,"Measured using mostly C3 frames, but STA Cor2 was used as well.",2017-07-23 06:26:00
+2017-07-28 11:30:00+00:00,4.0,-136.0,38.0,574.0,C,Measurements gathered by averaging 4 preliminary measurements,2017-07-28 11:30:00
+2017-08-02 12:34:00+00:00,30.0,-90.0,19.0,325.0,S,,2017-08-02 12:34:00
+2017-08-06 13:31:00+00:00,32.0,-49.0,23.0,149.0,S,Measured with swpc_cat using STA Cor2 frames only (but comparable to measurements using Stereo_Cat C2 and Cor2).,2017-08-06 13:31:00
+2017-08-15 23:41:00+00:00,-4.0,-68.0,32.0,370.0,S,,2017-08-15 23:41:00
+2017-08-16 23:50:00+00:00,11.0,-61.0,25.0,550.0,C,"measurement with STEREO_cat, using STA only (not enough images from LASCO available at tht time of entry), using longitude of source location.",2017-08-16 23:50:00
+2017-08-18 21:09:00+00:00,-9.0,-109.0,21.0,496.0,S,,2017-08-18 21:09:00
+2017-08-20 10:43:00+00:00,18.0,-11.0,10.0,302.0,S,These are preliminary measurements taken using STA cor2 imagery only.,2017-08-20 10:43:00
+2017-08-22 02:47:00+00:00,-15.0,-87.0,16.0,351.0,S,,2017-08-22 02:47:00
+2017-08-23 11:05:00+00:00,29.0,-163.0,25.0,314.0,S,Preliminary measurement made with only Cor2 frames (data gap in C2/C3 images).,2017-08-23 11:05:00
+2017-08-29 01:07:00+00:00,7.0,36.0,19.0,491.0,S,,2017-08-29 01:07:00
+2017-08-31 15:31:00+00:00,20.0,-71.0,18.0,327.0,S,,2017-08-31 15:31:00
+2017-08-31 16:48:00+00:00,4.0,80.0,11.0,333.0,S,,2017-08-31 16:48:00
+2017-09-01 05:27:00+00:00,14.0,81.0,10.0,255.0,S,,2017-09-01 05:27:00
+2017-09-02 21:28:00+00:00,3.0,90.0,32.0,625.0,C,,2017-09-02 21:28:00
+2017-09-04 23:45:00+00:00,-6.0,26.0,25.0,710.0,C,"Only the first couple of images are available, before the later, faster CME overtakes it.",2017-09-04 23:45:00
+2017-09-04 23:05:00+00:00,-10.0,10.0,46.0,1114.0,O,,2017-09-04 23:05:00
+2017-09-06 11:43:00+00:00,-8.0,83.0,24.0,260.0,S,,2017-09-06 11:43:00
+2017-09-06 14:57:00+00:00,-15.0,23.0,44.0,1238.0,O,,2017-09-06 14:57:00
+2017-09-06 16:28:00+00:00,-4.0,99.0,30.0,1178.0,O,,2017-09-06 16:28:00
+2017-09-07 16:24:00+00:00,-13.0,51.0,13.0,597.0,C,Seen best in C2 and C3.  Seen as a partial halo in Cor2.,2017-09-07 16:24:00
+2017-09-07 22:15:00+00:00,-16.0,53.0,16.0,477.0,S,"Measurements made the next day, after more images are available.",2017-09-07 22:15:00
+2017-09-08 09:53:00+00:00,20.0,-71.0,20.0,282.0,S,,2017-09-08 09:53:00
+2017-09-08 06:43:00+00:00,-4.0,51.0,21.0,395.0,S,,2017-09-08 06:43:00
+2017-09-08 05:29:00+00:00,-5.0,53.0,21.0,442.0,S,,2017-09-08 05:29:00
+2017-09-08 14:03:00+00:00,-3.0,54.0,20.0,450.0,S,,2017-09-08 14:03:00
+2017-09-10 00:54:00+00:00,-9.0,82.0,35.0,465.0,S,Measured using C3.,2017-09-10 00:54:00
+2017-09-10 04:24:00+00:00,2.0,92.0,33.0,333.0,S,Measured using images from C3,2017-09-10 04:24:00
+2017-09-10 17:18:00+00:00,-12.0,85.0,54.0,2650.0,R,,2017-09-10 17:18:00
+2017-09-12 16:30:00+00:00,-9.0,-36.0,22.0,450.0,S,Measure STEREO_CAT to velocities <400 km/s.,2017-09-12 16:30:00
+2017-09-13 00:43:00+00:00,-1.0,119.0,29.0,358.0,S,,2017-09-13 00:43:00
+2017-09-13 00:38:00+00:00,-6.0,119.0,25.0,741.0,C,,2017-09-13 00:38:00
+2017-09-14 07:32:00+00:00,-14.0,139.0,21.0,300.0,S,,2017-09-14 07:32:00
+2017-09-16 18:04:00+00:00,9.0,-165.0,30.0,551.0,C,,2017-09-16 18:04:00
+2017-09-16 19:59:00+00:00,-3.0,-161.0,21.0,412.0,S,Measurement was done using C3 frames.,2017-09-16 19:59:00
+2017-09-17 14:27:00+00:00,-3.0,-163.0,49.0,1404.0,O,"The eruption is seen from a possible AR, and the signature is darkening. Also, in the STA COR2 images show a partial halo.",2017-09-17 14:27:00
+2017-09-17 18:04:00+00:00,-33.0,-163.0,29.0,899.0,C,These are preliminary measurements using only STA cor2 imagery in swpc_cat. The CME becomes very faint farther out and was difficult to measure with many images.,2017-09-17 18:04:00
+2017-09-24 02:41:00+00:00,-9.0,-80.0,16.0,431.0,S,"Source is an eruption visible in in STA EUVI 195 at S05W40 around 16:45Z. CME was not visible in difference imaging, so measured only with C2 and STA. Very small.",2017-09-24 02:41:00
+2017-09-24 16:42:00+00:00,41.0,175.0,10.0,675.0,C,These measurements were taken using STA cor2 imagery only in swpc_cat. CME was not visible enough in C2/C3 imagery for a measurement.,2017-09-24 16:42:00
+2017-09-25 21:04:00+00:00,-3.0,-87.0,12.0,270.0,S,,2017-09-25 21:04:00
+2017-09-26 11:20:00+00:00,-4.0,-32.0,24.0,265.0,S,"CME fades quickly and is very difficult to distinguish in C3 images.  Also, it apparently has multiple fronts, and it wasn't clear whether a front seen from STEREO-A was the same front seen in LASCO.",2017-09-26 11:20:00
+2017-09-30 01:41:00+00:00,14.0,-35.0,17.0,154.0,S,CME becomes diffused quickly. This makes measuring the same leading edge difficult.,2017-09-30 01:41:00
+2017-10-02 18:59:00+00:00,-3.0,49.0,29.0,372.0,S,,2017-10-02 18:59:00
+2017-10-06 18:19:00+00:00,-14.0,117.0,27.0,240.0,S,These measurements were taken using C3 and STA imagery.,2017-10-06 18:19:00
+2017-10-06 22:29:00+00:00,-7.0,97.0,32.0,283.0,S,,2017-10-06 22:29:00
+2017-10-07 19:20:00+00:00,2.0,121.0,29.0,326.0,S,,2017-10-07 19:20:00
+2017-10-08 16:59:00+00:00,20.0,160.0,35.0,254.0,S,,2017-10-08 16:59:00
+2017-10-09 15:29:00+00:00,-6.0,110.0,32.0,442.0,S,"Eruption source appears to be farther west than Lon: 90. 
+The source location was initially used as the projected source 
+location of AR 2683. More specifically, it was determined AR 2683 
+traveled 12.1 lon in 24hours (while visible on the disk in days prior). 
+Adding 12.1 to AR 2683 longitude at 10-08-17T06:00Z, given by Magnetic Connectivity Solarscape Viewer, yielded lon: 100+.
+When measuring CME it was hard to determine the same leading edge.",2017-10-09 15:29:00
+2017-10-11 20:56:00+00:00,22.0,139.0,29.0,557.0,C,3 STA frames were used,2017-10-11 20:56:00
+2017-10-13 13:58:00+00:00,13.0,168.0,19.0,600.0,C,,2017-10-13 13:58:00
+2017-10-14 13:27:00+00:00,14.0,154.0,25.0,652.0,C,,2017-10-14 13:27:00
+2017-10-15 03:33:00+00:00,22.0,-73.0,18.0,330.0,S,,2017-10-15 03:33:00
+2017-10-17 06:46:00+00:00,-9.0,-110.0,24.0,283.0,S,,2017-10-17 06:46:00
+2017-10-17 06:46:00+00:00,-12.0,-110.0,25.0,380.0,S,,2017-10-17 06:46:00
+2017-10-17 10:18:00+00:00,-11.0,-110.0,24.0,510.0,C,,2017-10-17 10:18:00
+2017-10-17 23:05:00+00:00,-5.0,-108.0,29.0,353.0,S,CME was remeasured using more C3 frames. These parameters are averages of 5 different measurements.,2017-10-17 23:05:00
+2017-10-18 08:04:00+00:00,-38.0,-122.0,33.0,1439.0,O,,2017-10-18 08:04:00
+2017-10-18 10:07:00+00:00,-9.0,-117.0,42.0,1468.0,O,,2017-10-18 10:07:00
+2017-10-18 20:10:00+00:00,9.0,-119.0,12.0,586.0,C,,2017-10-18 20:10:00
+2017-10-19 23:05:00+00:00,27.0,153.0,16.0,380.0,S,These are preliminary measurements taken using limited available STA cor2 imagery.,2017-10-19 23:05:00
+2017-10-21 08:53:00+00:00,-12.0,-59.0,27.0,406.0,S,,2017-10-21 08:53:00
+2017-10-21 11:21:00+00:00,-3.0,-70.0,33.0,441.0,S,,2017-10-21 11:21:00
+2017-10-22 10:36:00+00:00,21.0,-91.0,15.0,289.0,S,,2017-10-22 10:36:00
+2017-10-25 19:22:00+00:00,-3.0,169.0,8.0,237.0,S,,2017-10-25 19:22:00
+2017-11-04 22:59:00+00:00,-9.0,138.0,24.0,226.0,S,,2017-11-04 22:59:00
+2017-11-10 18:37:00+00:00,11.0,90.0,27.0,370.0,S,,2017-11-10 18:37:00
+2017-11-10 17:30:00+00:00,4.0,-58.0,27.0,492.0,S,,2017-11-10 17:30:00
+2017-11-15 23:13:00+00:00,8.0,88.0,25.0,380.0,S,"CME is only visible in C2 images, but it is obvious that it speeds up so measurements were taken using later C2 images rather than earlier ones.",2017-11-15 23:13:00
+2017-11-17 03:45:00+00:00,-7.0,-42.0,26.0,260.0,S,"Measured using only Cor2, CME barely seen in C2/C3 difference images.",2017-11-17 03:45:00
+2017-11-17 06:33:00+00:00,-5.0,-55.0,35.0,383.0,S,These measurements were taken with a longitude slightly different from the source eruption location to make for a better fit using both LASCO C3 images and STA cor2 imagery.,2017-11-17 06:33:00
+2017-11-21 10:13:00+00:00,11.0,90.0,33.0,234.0,S,There was only one clear image in C3 and there were no clear images in STA coronagraph so this was hard to measure. This was measured using SWPC_CAT POS.,2017-11-21 10:13:00
+2017-11-23 14:00:00+00:00,30.0,-90.0,13.0,505.0,C,This was a narrow CME with a far-sided source location. SWPC_CAT POS was used to measure the CME.,2017-11-23 14:00:00
+2017-11-25 15:02:00+00:00,10.0,-27.0,31.0,411.0,S,,2017-11-25 15:02:00
+2017-11-30 07:59:00+00:00,23.0,58.0,30.0,367.0,S,"The CME had a source location of about 30 but moved towards the west, which is why the longitude is much larger than in the preliminary measurements. This was measured using SWPC_CAT and used C3 and STA imagery.",2017-11-30 07:59:00
+2017-12-01 09:30:00+00:00,-9.0,126.0,24.0,237.0,S,,2017-12-01 09:30:00
+2017-12-08 13:13:00+00:00,18.0,144.0,32.0,278.0,S,"Data gaps in STA cor 2 from 05:54 -09:34 made it difficult to capture the same leading edge.
+The CME was faint in C3 difference images and was hard to detect.",2017-12-08 13:13:00
+2017-12-16 03:18:00+00:00,-15.0,-27.0,26.0,282.0,S,,2017-12-16 03:18:00
+2017-12-22 00:36:00+00:00,25.0,-39.0,18.0,193.0,S,Measured using C3 frames.  Leading edge isn't very clear in Cor2.,2017-12-22 00:36:00
+2017-12-21 14:38:00+00:00,0.0,138.0,15.0,308.0,S,Measuring using C3 as the leading edge in Cor2 images was poor.,2017-12-21 14:38:00
+2017-12-29 04:48:00+00:00,-3.0,-90.0,14.0,600.0,C,,2017-12-29 04:48:00
+2017-12-30 00:46:00+00:00,19.0,129.0,19.0,303.0,S,,2017-12-30 00:46:00
+2018-01-01 18:47:00+00:00,21.0,112.0,17.0,279.0,S,,2018-01-01 18:47:00
+2018-01-22 09:28:00+00:00,-18.0,66.0,31.0,560.0,C,The CME had an irregular form and could only be measured using SOHO images.,2018-01-22 09:28:00
+2018-01-29 09:12:00+00:00,28.0,123.0,16.0,241.0,S,,2018-01-29 09:12:00
+2018-02-05 11:29:00+00:00,-4.0,-81.0,23.0,278.0,S,Possibly two small bursts that then merged into one CME.,2018-02-05 11:29:00
+2018-02-12 07:21:00+00:00,-7.0,22.0,49.0,554.0,C,,2018-02-12 07:21:00
+2018-02-17 21:21:00+00:00,-3.0,92.0,16.0,217.0,S,,2018-02-17 21:21:00
+2018-02-20 01:29:00+00:00,-5.0,127.0,27.0,369.0,S,,2018-02-20 01:29:00
+2018-02-25 14:47:00+00:00,15.0,117.0,25.0,497.0,S,,2018-02-25 14:47:00
+2018-03-02 09:25:00+00:00,4.0,61.0,18.0,446.0,S,,2018-03-02 09:25:00
+2018-03-06 09:54:00+00:00,-12.0,-12.0,29.0,386.0,S,,2018-03-06 09:54:00
+2018-03-07 10:19:00+00:00,-12.0,-15.0,18.0,350.0,S,,2018-03-07 10:19:00
+2018-03-13 05:35:00+00:00,-4.0,-54.0,16.0,268.0,S,,2018-03-13 05:35:00
+2018-03-24 21:36:00+00:00,0.0,102.0,28.0,357.0,S,,2018-03-24 21:36:00
+2018-03-26 01:23:00+00:00,-3.0,119.0,24.0,443.0,S,,2018-03-26 01:23:00
+2018-03-26 22:37:00+00:00,-3.0,-129.0,18.0,308.0,S,Very few frames could be used due to the faintness of the CME.,2018-03-26 22:37:00
+2018-03-27 20:51:00+00:00,-12.0,-116.0,21.0,238.0,S,,2018-03-27 20:51:00
+2018-03-30 02:13:00+00:00,5.0,-141.0,20.0,374.0,S,The partial halo component of this CME was too faint to measure.,2018-03-30 02:13:00
+2018-03-30 18:11:00+00:00,-11.0,-69.0,29.0,381.0,S,,2018-03-30 18:11:00
+2018-03-31 19:19:00+00:00,-17.0,-71.0,24.0,379.0,S,,2018-03-31 19:19:00
+2018-04-15 09:43:00+00:00,-6.0,-95.0,17.0,271.0,S,Measured using mostly C2 frames.  C3 frames are faint.,2018-04-15 09:43:00
+2018-04-15 15:24:00+00:00,-3.0,-95.0,26.0,371.0,S,Measured using mostly C2 frames.,2018-04-15 15:24:00
+2018-04-17 16:34:00+00:00,-14.0,117.0,24.0,412.0,S,Measured using later frames than the first measurement.  C3 and Cor2 were used the most.,2018-04-17 16:34:00
+2018-05-03 22:30:00+00:00,1.0,-155.0,33.0,635.0,C,,2018-05-03 22:30:00
+2018-05-18 16:06:00+00:00,-13.0,50.0,19.0,350.0,S,,2018-05-18 16:06:00
+2018-05-19 18:58:00+00:00,7.0,-153.0,20.0,333.0,S,,2018-05-19 18:58:00
+2018-05-30 15:49:00+00:00,5.0,91.0,11.0,190.0,S,,2018-05-30 15:49:00
+2018-05-30 22:06:00+00:00,0.0,-110.0,17.0,263.0,S,,2018-05-30 22:06:00
+2018-06-01 00:07:00+00:00,9.0,-102.0,23.0,361.0,S,,2018-06-01 00:07:00
+2018-06-15 06:31:00+00:00,-16.0,92.0,33.0,282.0,S,Measured with swpc_cat using C3 and STA Cor2 frames.,2018-06-15 06:31:00
+2018-06-16 02:24:00+00:00,9.0,-31.0,12.0,196.0,S,Very few images available for measurement. Done using only C3 as the CME is not visible in STA COR2 and appears only as a streamer enhancement in C2.,2018-06-16 02:24:00
+2018-06-17 21:46:00+00:00,9.0,109.0,21.0,309.0,S,,2018-06-17 21:46:00
+2018-06-20 07:29:00+00:00,15.0,-76.0,21.0,344.0,S,,2018-06-20 07:29:00
+2018-06-21 09:14:00+00:00,-4.0,97.0,22.0,250.0,S,,2018-06-21 09:14:00
+2018-06-25 01:26:00+00:00,0.0,105.0,16.0,217.0,S,,2018-06-25 01:26:00
+2018-07-05 22:56:00+00:00,-5.0,-10.0,22.0,260.0,S,,2018-07-05 22:56:00
+2018-07-05 19:07:00+00:00,8.0,124.0,35.0,485.0,S,,2018-07-05 19:07:00
+2018-07-10 12:48:00+00:00,-10.0,-96.0,10.0,293.0,S,,2018-07-10 12:48:00
+2018-07-18 15:23:00+00:00,-3.0,146.0,14.0,205.0,S,,2018-07-18 15:23:00
+2018-08-02 22:48:00+00:00,11.0,129.0,28.0,297.0,S,,2018-08-02 22:48:00
+2018-08-12 00:54:00+00:00,14.0,-50.0,27.0,289.0,S,Analysis was performed using a limited number of measurable STA COR2 images.,2018-08-12 00:54:00
+2018-08-19 18:20:00+00:00,-16.0,0.0,13.0,309.0,S,,2018-08-19 18:20:00
+2018-08-21 18:06:00+00:00,10.0,0.0,19.0,309.0,S,Measurements are rough due to a data gap in STA Cor2 imagery.,2018-08-21 18:06:00
+2018-09-27 18:40:00+00:00,-4.0,-10.0,35.0,212.0,S,,2018-09-27 18:40:00
+2018-10-25 19:35:00+00:00,-21.0,-95.0,16.0,342.0,S,,2018-10-25 19:35:00
+2018-10-29 15:09:00+00:00,-9.0,36.0,12.0,316.0,S,,2018-10-29 15:09:00
+2018-11-02 01:16:00+00:00,1.0,116.0,19.0,220.0,S,,2018-11-02 01:16:00
+2018-11-11 09:52:00+00:00,-2.0,131.0,19.0,270.0,S,,2018-11-11 09:52:00
+2018-11-30 16:53:00+00:00,-22.0,7.0,23.0,290.0,S,,2018-11-30 16:53:00
+2018-12-13 08:01:00+00:00,-6.0,-105.0,20.0,150.0,S,,2018-12-13 08:01:00
+2018-12-24 13:25:00+00:00,-15.0,-115.0,24.0,588.0,C,,2018-12-24 13:25:00
+2018-12-29 12:45:00+00:00,9.0,-50.0,20.0,360.0,S,"leading edge is faint, hard to measure",2018-12-29 12:45:00
+2019-01-03 07:15:00+00:00,-27.0,45.0,18.0,430.0,S,This imperfect SWPC Cat analysis was made with very few early C2 images since CME is not discernible in difference C3 and STA Cor2 images and its front is not clear in C3 and Cor2 imagery. Judging by C3 and Cor2 imagery the arrival at 21.5 Rs is later and CME slowed down.,2019-01-03 07:15:00
+2019-01-07 10:52:00+00:00,2.0,-97.0,15.0,295.0,S,,2019-01-07 10:52:00
+2019-01-21 15:51:00+00:00,-4.0,30.0,14.0,292.0,S,"Although the source location of the filament was farther south than the CME measurement, it appeared to lift off in a more northward direction.",2019-01-21 15:51:00
+2019-01-26 12:15:00+00:00,13.0,-95.0,15.0,184.0,S,,2019-01-26 12:15:00
+2019-01-29 12:33:00+00:00,-2.0,-105.0,13.0,330.0,S,,2019-01-29 12:33:00
+2019-01-29 15:37:00+00:00,-3.0,-107.0,16.0,299.0,S,,2019-01-29 15:37:00
+2019-01-29 19:24:00+00:00,-1.0,-105.0,14.0,299.0,S,,2019-01-29 19:24:00
+2019-02-07 12:13:00+00:00,-12.0,54.0,12.0,371.0,S,,2019-02-07 12:13:00
+2019-02-24 10:47:00+00:00,6.0,44.0,23.0,397.0,S,,2019-02-24 10:47:00
+2019-03-01 23:46:00+00:00,2.0,107.0,17.0,292.0,S,,2019-03-01 23:46:00
+2019-03-05 01:39:00+00:00,-10.0,-178.0,26.0,355.0,S,Measured with only one frame in C3 due to a large data gap at the measurement time.,2019-03-05 01:39:00
+2019-03-08 14:44:00+00:00,7.0,3.0,27.0,340.0,S,,2019-03-08 14:44:00
+2019-03-09 07:06:00+00:00,0.0,-133.0,12.0,368.0,S,,2019-03-09 07:06:00
+2019-03-20 18:19:00+00:00,1.0,14.0,41.0,541.0,C,"This measurement was made using only STA COR2, following the slower equatorial edge of the CME.",2019-03-20 18:19:00
+2019-04-03 10:33:00+00:00,3.0,-124.0,22.0,506.0,C,"This CME was difficult to measure as it was very faint in Cor2A, so only frames from C3 were used for the actual measurement.",2019-04-03 10:33:00
+2019-04-17 22:58:00+00:00,-5.0,-44.0,12.0,318.0,S,,2019-04-17 22:58:00
+2019-04-18 18:58:00+00:00,1.0,-149.0,22.0,428.0,S,,2019-04-18 18:58:00
+2019-04-20 10:33:00+00:00,2.0,90.0,30.0,387.0,S,,2019-04-20 10:33:00
+2019-04-21 13:19:00+00:00,11.0,117.0,27.0,367.0,S,,2019-04-21 13:19:00
+2019-04-22 11:49:00+00:00,9.0,87.0,26.0,434.0,S,,2019-04-22 11:49:00
+2019-04-27 22:26:00+00:00,3.0,93.0,16.0,309.0,S,,2019-04-27 22:26:00
+2019-04-28 13:34:00+00:00,-3.0,165.0,28.0,595.0,C,,2019-04-28 13:34:00
+2019-05-01 00:12:00+00:00,11.0,-114.0,18.0,296.0,S,,2019-05-01 00:12:00
+2019-04-30 18:08:00+00:00,0.0,-176.0,19.0,989.0,C,,2019-04-30 18:08:00
+2019-05-01 12:54:00+00:00,-13.0,-149.0,23.0,458.0,S,,2019-05-01 12:54:00
+2019-05-02 00:21:00+00:00,18.0,-104.0,22.0,456.0,S,,2019-05-02 00:21:00
+2019-05-03 23:02:00+00:00,-12.0,-129.0,25.0,863.0,C,,2019-05-03 23:02:00
+2019-05-04 04:33:00+00:00,12.0,-75.0,31.0,776.0,C,,2019-05-04 04:33:00
+2019-05-05 11:48:00+00:00,20.0,-58.0,15.0,282.0,S,,2019-05-05 11:48:00
+2019-05-07 01:19:00+00:00,9.0,-66.0,29.0,268.0,S,"Alternative measurement, measuring the conflated two CMEs together as they are seen as one structure in Cor2.
+
+C2/C3 frames could not be used since there is a large data gap in LASCO data.",2019-05-07 01:19:00
+2019-05-07 06:49:00+00:00,9.0,-39.0,25.0,257.0,S,"Taking the leading edge to be faint and measuring the second burst in the upper portion of the conflated material seen in Cor2A difference images.
+No C2/C3 frames could be used since there is a large data gap in LASCO data.",2019-05-07 06:49:00
+2019-05-07 10:30:00+00:00,14.0,-36.0,33.0,422.0,S,"Only C3 imagery, with a large gap before 04:54 was available.  Data gap will not be refilled due to maneuvers scheduled for SOHO. When analyzed later with C2 imagery and taking into account very faint front in STA, the longitude is probably at least -40 and the speed is lower, 350km/s",2019-05-07 10:30:00
+2019-05-08 01:06:00+00:00,16.0,-37.0,10.0,287.0,S,Measured using Cor2 frames only.,2019-05-08 01:06:00
+2019-05-08 02:07:00+00:00,-15.0,-71.0,23.0,364.0,S,,2019-05-08 02:07:00
+2019-05-08 08:20:00+00:00,-12.0,-75.0,32.0,790.0,C,,2019-05-08 08:20:00
+2019-05-11 02:31:00+00:00,-5.0,10.0,24.0,471.0,S,The CME is not visible in SOHO C2/C3 so this measurement was made using only STA COR2.,2019-05-11 02:31:00
+2019-05-11 12:18:00+00:00,0.0,2.0,28.0,362.0,S,The CME is very faint in SOHO C2/C3 so this measurement was done using only STA COR2.,2019-05-11 12:18:00
+2019-05-13 02:33:00+00:00,-15.0,-15.0,26.0,528.0,C,,2019-05-13 02:33:00
+2019-05-13 21:49:00+00:00,-13.0,10.0,27.0,594.0,C,,2019-05-13 21:49:00
+2019-05-18 22:17:00+00:00,-10.0,116.0,18.0,428.0,S,,2019-05-18 22:17:00
+2019-05-21 18:12:00+00:00,-14.0,104.0,20.0,392.0,S,,2019-05-21 18:12:00
+2019-05-22 13:21:00+00:00,9.0,31.0,10.0,301.0,S,The source location was a guess since there was no clear signature of eruption.,2019-05-22 13:21:00
+2019-05-26 02:38:00+00:00,-19.0,-170.0,13.0,351.0,S,,2019-05-26 02:38:00
+2019-06-04 00:31:00+00:00,-1.0,-6.0,7.0,215.0,S,This CME was measured with SWPC CAT and Stereo CAT. The parameters stated above are an average of all the measurements.,2019-06-04 00:31:00
+2019-06-18 15:08:00+00:00,-3.0,133.0,23.0,521.0,C,,2019-06-18 15:08:00
+2019-06-27 09:46:00+00:00,-1.0,-1.0,2.0,273.0,S,,2019-06-27 09:46:00
+2019-07-02 04:37:00+00:00,-12.0,-90.0,16.0,384.0,S,CME not visible in STA Cor2.,2019-07-02 04:37:00
+2019-07-13 12:31:00+00:00,8.0,111.0,5.0,218.0,S,The speed is plane of sky.,2019-07-13 12:31:00
+2019-07-14 12:22:00+00:00,-7.0,46.0,13.0,307.0,S,This is a faint and narrow CME.,2019-07-14 12:22:00
+2019-07-17 16:15:00+00:00,-6.0,85.0,3.0,381.0,S,,2019-07-17 16:15:00
+2019-07-19 10:05:00+00:00,90.0,4.0,23.0,268.0,S,,2019-07-19 10:05:00
+2019-08-13 15:38:00+00:00,6.0,-92.0,21.0,269.0,S,,2019-08-13 15:38:00
+2019-08-28 22:50:00+00:00,-14.0,5.0,12.0,247.0,S,,2019-08-28 22:50:00
+2019-09-10 20:41:00+00:00,6.0,-105.0,6.0,254.0,S,Was measured using just one instrument (LASCO C3) with a plane of sky approximation.,2019-09-10 20:41:00
+2019-09-12 07:47:00+00:00,6.0,-47.0,16.0,319.0,S,,2019-09-12 07:47:00
+2019-09-19 23:54:00+00:00,-4.0,1.0,6.0,366.0,S,,2019-09-19 23:54:00
+2019-10-10 18:37:00+00:00,5.0,-91.0,15.0,249.0,S,,2019-10-10 18:37:00
+2019-10-14 16:24:00+00:00,1.0,90.0,26.0,254.0,S,,2019-10-14 16:24:00
+2019-10-25 20:56:00+00:00,-5.0,3.0,17.0,262.0,S,,2019-10-25 20:56:00
+2019-11-21 01:10:00+00:00,9.0,33.0,12.0,383.0,S,,2019-11-21 01:10:00
+2019-11-28 09:11:00+00:00,7.0,-90.0,5.0,224.0,S,,2019-11-28 09:11:00
+2019-12-04 11:03:00+00:00,-2.0,-91.0,8.0,259.0,S,,2019-12-04 11:03:00
+2019-12-06 17:45:00+00:00,-1.0,-85.0,12.0,356.0,S,,2019-12-06 17:45:00
+2019-12-12 23:13:00+00:00,-4.0,-88.0,10.0,211.0,S,,2019-12-12 23:13:00
+2019-12-31 00:59:00+00:00,-11.0,152.0,20.0,163.0,S,,2019-12-31 00:59:00
