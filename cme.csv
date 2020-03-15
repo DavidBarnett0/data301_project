@@ -62,7 +62,6 @@ SWPC thinks it is a backsided CME, but no sign of source can be found in EUVI A 
 2015-02-09 23:24:00,12282.0,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,1,"Large M2.4 flare from AR2282 in the NE, rising loops, dimming and wave observed in AIA 193 images starting before 23:00.",12.0,61.0
 2015-02-10 08:24:00,12282.0,['SOHO: LASCO/C2'],1,0,A rapid outflow/spurt/field line opening from the Eastern edge of AR2282 observed in AIA 193 images starting before 08:00 UT.,10.0,65.0
 2015-02-11 00:00:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,0,"CME was very difficult to measure.  Source is believed to be close east of AR 2282, but it is not completely certain.",,
-2015-02-11 00:00:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,0,CME was wide but very faint.  It looked like a partial halo on LASCO imagery.  It is believed to be backsided since no Earth's facing source could be identified.,,
 2015-02-13 04:48:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,0,"No corresponding front sided activity is seen in AIA 304/194 imagery. There is some opening/closing of field lines seen after 04:00 in AIA 194 in the southeast, so this must be a backsided CME from behind the SE limb.",,
 2015-02-13 23:06:00,,"['SOHO: LASCO/C3', 'SOHO: LASCO/C2']",1,0,CME appears to be back-sided. Source location could not be located.,,
 2015-02-14 11:18:00,,['SOHO: LASCO/C3'],1,0,,,
@@ -147,7 +146,6 @@ VERY SLOW",,
 2015-03-27 14:12:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,0,CME observed in SDO AIA 193/304 after 11:30UT off of the eastern limb.,10.0,90.0
 2015-03-27 19:00:00,,['SOHO: LASCO/C3'],1,0,CME may be associated with a darkening observed in SDO 193 NE of the southern coronal hole.  There seem to be a little bit of reconstruction happening.   CME was very faint and could only be measured using STEREO_Cat with POS approximations.,,
 2015-03-28 18:04:00,12314.0,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,0,Eruption observed in SDO AIA 193/304 around 2015-03-28T15:48Z.,,
-2015-03-28 18:04:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,0,CME may be associated to a small eruption visible on the NW limb near ARs 2303 2309.  Start time is after a data gap in the LASCO imagery.,,
 2015-03-29 00:00:00,12309.0,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,0,Very slow continuous outflow. Start time is somewhat arbitrary...,,
 2015-03-29 18:36:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,1,Seems to be backsided,,
 2015-03-31 06:24:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,0,"CME may be associated with a darkening region seen in SDO 193 on the NE side.  Speed may be overestimated since the CME is too faint and narrow, and the images measured are a little close to the solar surface.",,
@@ -428,7 +426,6 @@ There is distinct EUV dimming, and post eruptive arcades. The eruption seems to 
 2015-09-16 10:00:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,0,CME is very narrow.  Eruption can be seen on the SE limb in SDO 190/171 around 09:20Z.,,
 2015-09-17 13:36:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",0,0,CME may be associated with far side eruption visible in STA EUVI around 11UT.  CME was very difficult to measure.  Only POS measurements could be performed with STEREO_Cat. Please remeasure when possible.,,
 2015-09-18 05:00:00,12415.0,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,1,Faint partial halo CME associated with the C2.6 long duration flare from AR2415.,-20.0,-20.0
-2015-09-18 05:00:00,,['SOHO: LASCO/C2'],1,0,"Source region never identified, all measurements preliminary",,
 2015-09-18 15:12:00,,['SOHO: LASCO/C2'],0,0,"Visible in the SW of C2, quite faint, source unknown",,
 2015-09-18 15:48:00,,['SOHO: LASCO/C2'],0,0,"Visible in the NE of C2, narrow and likely back sided with some movement visible in the field lines in SDO AIA 171 just after 14:30.  Cannot be sure as there is a gap in STA EUVI imagery at this time.",,
 2015-09-19 00:48:00,,['SOHO: LASCO/C2'],1,0,This CME is very faint and can be seen in C2. A source has not been identified; it is probably backsided.,,
@@ -646,7 +643,6 @@ activity originating from Region 2473.""-SWPC forecast discussion",-23.0,45.0
 2016-03-14 18:12:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,"Filament eruption at SE limb starting ~15:00 (slow rise phase), lift off at ~17:00, seen in AIA 193/171/304.",,
 2016-03-14 21:12:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,"No apparent source, it was a streamer blowout so not surprising.",,
 2016-03-15 06:48:00,,"['SOHO: LASCO/C2', 'STEREO A: SECCHI/COR2']",0,0,Associated with large filament eruption at NW limb around 5:30,,
-2016-03-15 06:48:00,,"['SOHO: LASCO/C2', 'STEREO A: SECCHI/COR2']",1,0,Associated with large filament eruption at NW limb around 5:30,,
 2016-03-16 03:12:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,"filament eruption behind W limb seen in AIA 304 at ~02:40, also seen in EUVI A at E limb, eruption starting ~02:15",,
 2016-03-16 07:00:00,12522.0,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,1,"eruption close to W limb in AR 12522, connected to C2 flare, very fast wave visible in AIA 193 over a large fraction of the western part of the sun, AIA 304 shows eruption of a filament from the AR (twisted flux rope in emission off limb). Small SEP event connected with this, enhanced proton levels in GOES flux, but below notification threshold.",12.0,-88.0
 2016-03-17 03:24:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,CME associated with filament eruption visible in STA EUVI at N05E80. Filament can be seen in AIA 304 lifting off the west limb (starting ~02:34). The CME is very faint and only plane of sky measurements could be performed.,5.0,80.0
@@ -764,7 +760,6 @@ very narrow, jet-like flow",,
 2016-07-01 00:48:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,Source location is unknown,,
 2016-07-05 02:09:00,,"['STEREO A: SECCHI/COR2', 'SOHO: LASCO/C2', 'SOHO: LASCO/C3']",1,0,"No clear source was visible - there are some evolving loops above the NW limb visible in AIA 171 around 22:00Z, but it's not clear whether it was related to this CME or not.  No visible signature in EUVI-A.",,
 2016-07-05 21:17:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",0,0,,,
-2016-07-05 21:17:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,This is associated with the long-duration B3.6 class flare peaked at 21:47Z.,,
 2016-07-06 06:36:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,,,
 2016-07-07 03:54:00,,"['SOHO: LASCO/C3', 'SOHO: LASCO/C2', 'STEREO A: SECCHI/COR2']",1,0,The start time might not be accurate due to the CME being very faint.,,
 2016-07-10 00:53:00,12564.0,"['SOHO: LASCO/C3', 'SOHO: LASCO/C2']",1,1,,,
@@ -1118,7 +1113,6 @@ Speed of 78 km/s with a lon/lat of 105/36 and a cone of 25. Time at 21:5: 2017-0
 2017-10-21 20:12:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,"Source is far-sided AR, field line movement can be seen in the east limb of 171.",15.0,91.0
 2017-10-25 00:54:00,,['STEREO A: SECCHI/COR2'],1,0,The source is unclear due to a long data gap in STA imagery for the entirety of 10-24.,,
 2017-11-03 02:48:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,"Some opening field lines can be seen around 02:36Z in SDO AIA 193, but they are hard to see and the source is most likely beyond the west limb of SDO imagery and on or near the east limb of STA EUVI imagery. There is a data gap in STA EUVI imagery from 2017-11-02T16:55Z to 2017-11-03T05:15Z, and a data gap in STA cor2 from 16:54-05:39Z, so the potential source and the beginning of the CME cannot be seen from STA.",,
-2017-11-03 02:48:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,"Same note as the other entry, this CME was measured from POS with no recorded longitude.",,
 2017-11-04 08:09:00,,"['STEREO A: SECCHI/COR2', 'SOHO: LASCO/C2']",1,0,"Source is unclear, likely from the currently invisible region beyond range of STA Cor2 & SOHO's view (longitude of 138 is within this, as STA's current plane of sky is at 145 longitude).",,
 2017-11-08 17:00:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,0,"The source location was behind the limb so the exact source could not be found. Because of this, the longitude field in the CME analysis portion was left blank. The associated eruption was a slow release of material that can be seen at around 12:21Z in SDO - AIA 171.",,
 2017-11-10 06:23:00,,"['SOHO: LASCO/C2', 'SOHO: LASCO/C3', 'STEREO A: SECCHI/COR2']",1,1,"Opening field lines can be seen beyond the NW limb of SDO AIA 171 starting around 04:06Z, but a source on the disk could not be found.",,
